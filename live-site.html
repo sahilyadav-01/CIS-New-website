@@ -1,0 +1,2001 @@
+1<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>CIS</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="./demo_files/HeaderFooter.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+  <link href="./demo_files/main.min.css" rel="stylesheet" type="text/css">
+  <link href="css/all.css" rel="stylesheet" type="text/css">
+  <link href="css/base.css" rel="stylesheet" type="text/css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script> -->
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.theme.min.css">
+  <link rel="stylesheet" type="text/css" href="animate.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.css"/>
+  
+ <!--  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.9/slick.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.9/slick-theme.min.css"> -->
+  
+
+
+  <!-- start video section-->
+
+
+
+
+  <!-- end video section -->
+
+  
+</head>
+<body>
+ <style type="text/css">
+                .section {
+                  font-size: 1.4em; 
+                  letter-spacing: 0.05em;
+                  line-height: 1.5em;
+                  /* background: azure; */
+                  /*background-color: rgba(227,227,227,.8);*/
+                }
+                .header-icon{
+                  color: white;
+                  font-size: 0.9rem !important; 
+
+                }
+                .section h2,
+                .section h3 {
+                  text-align: center;
+                  margin: 0;
+                  font-weight: normal;
+                  left: 0;
+                  transform: translateY(0);
+                  opacity: 1;
+                  top: 50vh;
+                  -webkit-transform: translateY(-50%);
+                  -moz-transform: translateY(-50%);
+                  -ms-transform: translateY(-50%);
+                  -o-transform: translateY(-50%);
+                  transform: translateX(0px);
+                  right: 0;
+                  font-size: 83px;
+                  font-weight: 700;
+                  letter-spacing: .05em;
+                  line-height: 1;
+                  opacity: .6;
+                  text-align: center;
+                  /* z-index: -1; */
+                  color: lightgray;
+                  pointer-events: none;
+                }
+                .section__header {
+                  	opacity: 1;
+                  	position: sticky;
+                  	top: 50%;
+                   	transform: translateY(0); 
+                  	opacity: 1; 
+                  	/*z-index: 9;*/
+                   
+
+                }
+                .section__content {
+                  	display: flex;
+                  	justify-content: center;
+                }
+               
+                .video-background-holder {
+                top: 140px;
+                position: relative;
+                background-color: black;
+                height: calc(100vh - 72px);
+                min-height: 50rem;
+                width: 100%;
+                overflow: hidden;
+              }
+
+              .video-background-holder video {
+
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                min-width: 100%;
+                min-height: 100%;
+                width: auto;
+                height: auto;
+                z-index: 0;
+                -ms-transform: translateX(-50%) translateY(-50%);
+                -moz-transform: translateX(-50%) translateY(-50%);
+                -webkit-transform: translateX(-50%) translateY(-50%);
+                transform: translateX(-50%) translateY(-50%);
+              }
+
+              .video-background-content {
+                position: relative;
+                z-index: 2;
+                padding: 2% 0px;
+              }
+
+              .video-background-overlay {
+                position: absolute;
+                top: 0;
+                left: 0;
+                height: 100%;
+                width: 100%;
+                background-color: black;
+                opacity: 0.1;
+                z-index: 1;
+              }
+              .video-background-content ul li{
+                list-style: none;
+              }
+              span.icon {
+                padding: 5px 7px;
+                /* width: 100px; */
+                background: #7ca5ba;
+                border-radius: 50%;
+              }
+
+            .video-background-content li {
+                margin-bottom:20px;
+            }
+            img.site-logo {
+              height: 80px;
+              /* width: 100%; */
+            }
+            .display-4 {
+                  color: #7ca5ba;
+                  font-size: 2.5rem;
+                  font-weight: 500;
+                  line-height: 1.2;
+              }
+              .news-content ul li{
+    line-height: 4rem;
+}
+              .owl-item {width: 128.906px; margin-right: 10px;  }
+
+              .header-social{
+                padding-left: 25rem!important;
+                
+              }
+
+              .header-social span{
+                font-size: 1.7rem;
+                color: #fff;
+                margin: 10px;
+
+              }
+              .header-social span:hover{
+                color: #7ca5ba;
+              }
+              .header-info{
+                color: #fff;
+                margin: 6px;
+              }
+              p {
+    font-family: sans-serif;
+}
+@media(max-width: 360px){
+    #header-main-div{
+      height: 6rem!important;
+    }
+    .header-social{
+       padding-left: 0rem;
+         }
+    .video-background-holder {
+        top: 183px;
+     }
+}
+
+.float{
+  position:fixed;
+  width:60px;
+  height:60px;
+  bottom:40px;
+  right:40px;
+  background-color:#25d366;
+  color:#FFF;
+  border-radius:50px;
+  text-align:center;
+  font-size:30px;
+  box-shadow: 2px 2px 3px #999;
+  z-index:100;
+}
+
+.my-float{
+  margin-top:16px;
+}
+          
+
+            </style>
+     
+  <!-- Navbar -->
+
+<header class="headerClass" style="top: 0px !important;">
+
+    <nav>
+        <a href="index.php" style="padding: 10px 0px;">
+            <img src="./demo_files/logo.png" class="site-logo" alt="">
+        </a>
+
+        <div class="menu-links">
+            <ul class="navbar-collapse top-box">
+                <li class="back-btn">Back</li>
+
+                <li class="nav-item mobile-only hp-nav-item">
+                    <a class="nav-item-title">Home</a>
+                </li>
+                <!-- <li class="hp-nav-item">
+                    <span class="mobile-menu-child mobile-menu-first"></span>
+                    <a href="#" class="hp-top-nav-link">
+                        <div class="nav-item-title">Products</div>
+                        <div class="hover-border"></div>
+                    </a>
+
+                    <div class="mobile-container slide-container full-width-menu" style="height: 544px; padding-top: 0px; margin-top: 9px; padding-bottom: 0px; margin-bottom: 0px; display: none;">
+                        <div class="sub-nav">
+                            <div class="sub-menu">
+                                <div class="sub-menu-title"><a href="#">Testing Systems</a></div>
+
+                                <div class="child-links">
+                                    <div><a href="#">Universal Testing Systems</a></div>
+                                    <div><a href="#">Structural Durability</a></div>
+                                    <div><a href="#">Automated Testing Systems</a></div>
+                                    <div><a href="#">Dynamic and Fatigue Testing Systems</a></div>
+                                    <div><a href="#">Crash Simulation</a></div>
+                                    <div><a href="#">Torsion Testers</a></div>
+                                    <div><a href="#">Rheometers &amp; Melt Flow Testers</a></div>
+                                    <div><a href="#">Impact Drop Towers &amp; Pendulums</a></div>
+                                    <div><a href="#">HDT &amp; Vicat</a></div>
+                                    <div><a href="#">Out of Production Systems</a></div>
+                                </div>
+                                <span class="mobile-menu-child"></span>
+                            </div>
+                            <div class="sub-menu">
+                                <div class="sub-menu-title"><a href="#">Accessories</a></div>
+
+                                <div class="child-links">
+                                    <div><a href="#">Software</a></div>
+                                    <div><a href="#">Load Cells</a></div>
+                                    <div><a href="#">Peel, Friction, Puncture</a></div>
+                                    <div><a href="#">Environmental Chambers and Furnaces</a></div>
+                                    <div><a href="#">Tensile Grips</a></div>
+                                    <div><a href="#">Flex Fixtures</a></div>
+                                    <div><a href="#">Biomedical Systems &amp; Accessories</a></div>
+                                    <div><a href="#">Electronics &amp; Microelectronics Test Accessories</a></div>
+                                    <div><a href="#">Extensometers</a></div>
+                                    <div><a href="#">Compression Platens</a></div>
+                                    <div><a href="#">Composite Fixtures</a></div>
+                                    <div><a href="#">All Accessories</a></div>
+                                </div>
+                                <span class="mobile-menu-child"></span>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li class="hp-nav-item">
+                    <span class="mobile-menu-child mobile-menu-first"></span>
+                    <a href="https://www.webera.com/en-in/#" class="hp-top-nav-link">
+                        <div class="nav-item-title">Industry Solutions</div>
+                        <div class="hover-border"></div>
+                    </a>
+
+                    <div class="mobile-container slide-container" style="height: 216px; padding-top: 0px; margin-top: 9px; padding-bottom: 0px; margin-bottom: 0px; display: none;">
+                        <div class="sub-nav">
+                            <div class="sub-menu-link">
+                                <a href="https://www.webera.com/en-in/testing-solutions" class="sub-menu-title">Search by Material</a>
+                                <a href="https://www.webera.com/en-in/testing-solutions" class="sub-menu-title">Search by Standard</a>
+                                <a href="https://www.webera.com/en-in/testing-solutions" class="sub-menu-title">Search by Test Type</a>
+                            </div>
+
+                            <div class="sub-menu">
+                                <div class="sub-menu-title"><a href="https://www.webera.com/en-in/industry-solutions">Industries</a></div>
+
+                                <div class="child-links">
+                                    <div><a href="https://www.webera.com/en-in/industry-solutions/automotive">Automotive</a></div>
+                                    <div><a href="https://www.webera.com/en-in/industry-solutions/biomedical">Biomedical</a></div>
+                                    <div><a href="https://www.webera.com/en-in/industry-solutions/electronics">Electronics</a></div>
+                                </div>
+                                <span class="mobile-menu-child"></span>
+                            </div>
+                            <div class="sub-menu">
+                                <div class="sub-menu-title"><a href="https://www.webera.com/en-in/industry-solutions/materials">Materials</a></div>
+
+                                <div class="child-links">
+                                    <div><a href="https://www.webera.com/en-in/industry-solutions/composites">Composites</a></div>
+                                    <div><a href="https://www.webera.com/en-in/industry-solutions/metals">Metals</a></div>
+                                    <div><a href="https://www.webera.com/en-in/industry-solutions/plastics">Plastics</a></div>
+                                </div>
+                                <span class="mobile-menu-child"></span>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li class="hp-nav-item">
+                    <span class="mobile-menu-child mobile-menu-first"></span>
+                    <a href="https://www.webera.com/en-in/service-and-support" class="hp-top-nav-link">
+                        <div class="nav-item-title">Service and Support</div>
+                        <div class="hover-border"></div>
+                    </a>
+
+                    <div class="mobile-container slide-container full-width-menu" style="height: 395px; padding-top: 0px; margin-top: 9px; padding-bottom: 0px; margin-bottom: 0px; display: none;">
+                        <div class="sub-nav">
+                            <div class="sub-menu-link">
+                                <a href="https://www.webera.com/en-in/service-and-support/webera-remote-technical-support" class="sub-menu-title">webera Remote Technical Support</a>
+                                <a href="https://www.webera.com/en-in/service-and-support/product-life-cycle" class="sub-menu-title">Product Life Cycle</a>
+                                <a href="https://www.webera.com/en-in/service-and-support/service-success-stories" class="sub-menu-title">Service Success Stories</a>
+                                <a href="https://www.webera.com/en-in/service-and-support/training" class="sub-menu-title">Training</a>
+                            </div>
+
+                            <div class="sub-menu">
+                                <div class="sub-menu-title"><a href="https://www.webera.com/en-in/service-and-support/services">Services</a></div>
+
+                                <div class="child-links">
+                                    <div><a href="https://www.webera.com/en-in/service-and-support/services/calibration-and-verification">Calibration and Verification</a></div>
+                                    <div><a href="https://www.webera.com/en-in/service-and-support/services/implementation-assistance">webera Implementation Assistance</a></div>
+                                    <div><a href="https://www.webera.com/en-in/service-and-support/services/installation-and-relocation">Installation &amp; Relocation</a></div>
+                                </div>
+                                <span class="mobile-menu-child"></span>
+                            </div>
+                            <div class="sub-menu">
+                                <div class="sub-menu-title"><a href="https://www.webera.com/en-in/service-and-support/technical-support">Tech Support</a></div>
+
+                                <div class="child-links">
+                                    <div><a href="https://www.webera.com/en-in/service-and-support/technical-support/faqs">FAQs</a></div>
+                                    <div><a href="https://www.webera.com/en-in/service-and-support/technical-support/software-update-services">Software Update Services</a></div>
+                                </div>
+                                <span class="mobile-menu-child"></span>
+                            </div>
+                            <div class="sub-menu">
+                                <div class="sub-menu-title"><a href="https://www.webera.com/en-in/service-and-support/resources">Resources</a></div>
+
+                                <div class="child-links">
+                                    <div><a href="https://www.webera.com/en-in/service-and-support/resources/manuals">Manuals</a></div>
+                                    <div><a href="https://www.webera.com/en-in/service-and-support/resources/serial-number-locator">Serial Number Locator</a></div>
+                                </div>
+                                <span class="mobile-menu-child"></span>
+                            </div>
+                        </div>
+                    </div>
+                </li> -->
+
+ <!--                <li class="hp-nav-item">
+                    <span class="mobile-menu-child mobile-menu-first"></span>
+                    <a href="https://www.webera.com/en-in/our-company" class="hp-top-nav-link">
+                        <div class="nav-item-title">Our Company</div>
+                        <div class="hover-border"></div>
+                    </a>
+
+                    <div class="mobile-container slide-container full-width-menu" style="height: 757px; padding-top: 0px; margin-top: 9px; padding-bottom: 0px; margin-bottom: 0px; display: none;">
+                        <div class="sub-nav">
+                            <div class="sub-menu-link">
+                                <a href="https://www.webera.com/en-in/our-company/careers" class="sub-menu-title">Careers</a>
+                                <a href="https://www.webera.com/en-in/our-company/press-room" class="sub-menu-title">Press Room</a>
+                                <a href="https://www.webera.com/en-in/our-company/contact-us/subscribe-to-our-newsletter" class="sub-menu-title">Subscribe to Our Newsletters</a>
+                            </div>
+
+                            <div class="sub-menu">
+                                <div class="sub-menu-title"><a href="https://www.webera.com/en-in/our-company/about-us">About Us</a></div>
+
+                                <div class="child-links">
+                                    <div><a href="https://www.webera.com/en-in/our-company/about-us/our-history">Our History</a></div>
+                                    <div><a href="https://www.webera.com/en-in/our-company/about-us/locations">Locations</a></div>
+                                    <div><a href="https://www.webera.com/en-in/our-company/about-us/accreditations-and-certificates">Accreditations &amp; Certificates</a></div>
+                                </div>
+                                <span class="mobile-menu-child"></span>
+                            </div>
+
+                            <div class="sub-menu">
+                                <div class="sub-menu-title"><a href="https://www.webera.com/en-in/our-company/about-us">Products</a></div>
+
+                                <div class="child-links">
+                                    <div><a href="https://www.webera.com/en-in/our-company/about-us/our-history">Our History</a></div>
+                                    <div><a href="https://www.webera.com/en-in/our-company/about-us/locations">Locations</a></div>
+                                    <div><a href="https://www.webera.com/en-in/our-company/about-us/accreditations-and-certificates">Accreditations &amp; Certificates</a></div>
+                                </div>
+                                <span class="mobile-menu-child"></span>
+                            </div>
+
+                            <div class="sub-menu">
+                                <div class="sub-menu-title"><a href="https://www.webera.com/en-in/our-company/about-us">Services</a></div>
+
+                                <div class="child-links">
+                                    <div><a href="https://www.webera.com/en-in/our-company/about-us/our-history">Our History</a></div>
+                                    <div><a href="https://www.webera.com/en-in/our-company/about-us/locations">Locations</a></div>
+                                    <div><a href="https://www.webera.com/en-in/our-company/about-us/accreditations-and-certificates">Accreditations &amp; Certificates</a></div>
+                                </div>
+                                <span class="mobile-menu-child"></span>
+                            </div>
+
+                            <div class="sub-menu">
+                                <div class="sub-menu-title"><a href="https://www.webera.com/en-in/our-company/about-us">Brochures</a></div>
+
+                                <div class="child-links">
+                                    <div><a href="https://www.webera.com/en-in/our-company/about-us/our-history">Our History</a></div>
+                                    <div><a href="https://www.webera.com/en-in/our-company/about-us/locations">Locations</a></div>
+                                    <div><a href="https://www.webera.com/en-in/our-company/about-us/accreditations-and-certificates">Accreditations &amp; Certificates</a></div>
+                                </div>
+                                <span class="mobile-menu-child"></span>
+                            </div>
+
+                            <div class="sub-menu">
+                                <div class="sub-menu-title"><a href="https://www.webera.com/en-in/our-company/about-us">News and Events</a></div>
+
+                                <div class="child-links">
+                                    <div><a href="https://www.webera.com/en-in/our-company/about-us/our-history">Our History</a></div>
+                                    <div><a href="https://www.webera.com/en-in/our-company/about-us/locations">Locations</a></div>
+                                    <div><a href="https://www.webera.com/en-in/our-company/about-us/accreditations-and-certificates">Accreditations &amp; Certificates</a></div>
+                                </div>
+                                <span class="mobile-menu-child"></span>
+                            </div>
+
+                            <div class="sub-menu">
+                                <div class="sub-menu-title"><a href="https://www.webera.com/en-in/our-company/about-us">Video</a></div>
+
+                                <div class="child-links">
+                                    <div><a href="https://www.webera.com/en-in/our-company/about-us/our-history">Our History</a></div>
+                                    <div><a href="https://www.webera.com/en-in/our-company/about-us/locations">Locations</a></div>
+                                    <div><a href="https://www.webera.com/en-in/our-company/about-us/accreditations-and-certificates">Accreditations &amp; Certificates</a></div>
+                                </div>
+                                <span class="mobile-menu-child"></span>
+                            </div>
+                            <div class="sub-menu">
+                                <div class="sub-menu-title"><a href="https://www.webera.com/en-in/our-company/about-us">About Us</a></div>
+                            </div>
+                            <div class="sub-menu">
+                                <div class="sub-menu-title"><a href="https://www.webera.com/en-in/our-company/about-us">Product</a></div>
+                            </div>
+                            <div class="sub-menu">
+                                <div class="sub-menu-title"><a href="https://www.webera.com/en-in/our-company/about-us">Services</a></div>
+                            </div>
+                            <div class="sub-menu">
+                                <div class="sub-menu-title"><a href="https://www.webera.com/en-in/our-company/about-us">Brochures</a></div>
+                            </div>
+                            <div class="sub-menu">
+                                <div class="sub-menu-title"><a href="https://www.webera.com/en-in/our-company/about-us">Media</a></div>
+                            </div>
+                            <div class="sub-menu">
+                                <div class="sub-menu-title"><a href="https://www.webera.com/en-in/our-company/about-us">Contact us</a></div>
+                            </div>
+
+                        </div>
+                    </div>
+                </li> 
+  -->               <li class="hp-nav-item">
+                    <span class="mobile-menu-child mobile-menu-first"></span>
+                    <a href="about.php" class="hp-top-nav-link">
+                        <div class="nav-item-title">About Us</div>
+                        <div class="hover-border"></div>
+                    </a>
+
+                    <div class="mobile-container slide-container">
+                        <div class="sub-nav"></div>
+                    </div>
+                </li>
+                <li class="hp-nav-item">
+                    <span class="mobile-menu-child mobile-menu-first"></span>
+                                       <a href="product.php?id=Materials Testing" class="hp-top-nav-link">
+                        <div class="nav-item-title">Products</div>
+                        <div class="hover-border"></div>
+                    </a>
+
+                    <div class="mobile-container slide-container">
+                        <div class="sub-nav"></div>
+                    </div>
+                </li>
+                <li class="hp-nav-item">
+                    <span class="mobile-menu-child mobile-menu-first"></span>
+                                          <a href="service.php" class="hp-top-nav-link">
+                        <div class="nav-item-title">Services</div>
+                        <div class="hover-border"></div>
+                    </a>
+
+                    <div class="mobile-container slide-container">
+                        <div class="sub-nav"></div>
+                    </div>
+                </li>
+                <li class="hp-nav-item">
+                    <span class="mobile-menu-child mobile-menu-first"></span>
+                    <a href="brochures.php" class="hp-top-nav-link">
+                        <div class="nav-item-title">Brochures</div>
+                        <div class="hover-border"></div>
+                    </a>
+
+                    <div class="mobile-container slide-container">
+                        <div class="sub-nav"></div>
+                    </div>
+                </li>
+                  
+                <li class="hp-nav-item">
+                    <span class="mobile-menu-child mobile-menu-first"></span>
+                    <a href="#" class="hp-top-nav-link">
+                        <div class="nav-item-title">Media</div>
+                        <div class="hover-border"></div>
+                    </a>
+
+                    <div class="mobile-container slide-container" style="height: 216px; padding-top: 0px; margin-top: 9px; padding-bottom: 0px; margin-bottom: 0px; display: none;">
+                        <div class="sub-nav">
+                            <div class="sub-menu-link">
+                                <a href="newsletters.php" class="sub-menu-title">News/Newsletters</a>
+                                 <a href="#" class="sub-menu-title">Events</a> 
+                                 <div class="child-links pl-3 pb-3">
+                                    <div style="margin-top: -2rem;"><a href="attended.php" style="color: color: #1d1832;font-size: 1rem;">Attended</a></div>
+                                    <div style="margin-bottom: 1rem;"><a href="upcoming.php" style="color: color: #1d1832;font-size: 1rem;">Upcoming</a></div>
+                                </div>
+                                <!-- <a href="#" class="hp-top-nav-link1">
+                                    <div class="nav-item-title">Event</div>
+                                    <div class="hover-border"></div>
+                                </a>
+                                <div class="mobile-container slide-container" style="height: 216px; padding-top: 0px; margin-top: 9px; padding-bottom: 0px; margin-bottom: 0px; display: none;">
+                                    <div class="sub-nav">
+                                        <div class="sub-menu-link">
+                                            <a href="event.php" class="sub-menu-title">Eveny 1</a>
+                                            <a href="event.php" class="sub-menu-title">Eveny 1</a>
+                                        </div>
+
+                                    </div>
+                                </div> -->
+                                 
+                                <a href="video.php" class="sub-menu-title">Videos</a>
+                                <!-- <a href="https://www.webera.com/en-in/testing-solutions" class="sub-menu-title">Search by Test Type</a> -->
+                            </div>
+
+                        </div>
+                    </div>
+                </li>
+                <!--   <li class="hp-nav-item">
+                    <span class="mobile-menu-child mobile-menu-first"></span>
+                    <a href="clients.php" class="hp-top-nav-link">
+                        <div class="nav-item-title">Clients</div>
+                        <div class="hover-border"></div>
+                    </a>
+
+                    <div class="mobile-container slide-container">
+                        <div class="sub-nav"></div>
+                    </div>
+                </li> -->
+                <li class="hp-nav-item">
+                    <span class="mobile-menu-child mobile-menu-first"></span>
+                    <a href="clients.php" class="hp-top-nav-link">
+                        <div class="nav-item-title">Clients</div>
+                        <div class="hover-border"></div>
+                    </a>
+                    <div class="mobile-container slide-container">
+                        <div class="sub-nav"></div>
+                    </div>
+                </li>
+              
+                <li class="hp-nav-item">
+                    <span class="mobile-menu-child mobile-menu-first"></span>
+                    <a href="contact.php" class="hp-top-nav-link">
+                        <div class="nav-item-title">Contact Us</div>
+                        <div class="hover-border"></div>
+                    </a>
+                    <div class="mobile-container slide-container">
+                        <div class="sub-nav"></div>
+                    </div>
+                </li>
+                <!-- <li class="hp-nav-item location-tab" style="background: #274969;">
+                    <div class="nav-item-title">
+                        <div class="location-btn">
+                            <i class="fa fa-globe fa-xl"></i>
+                            <a id="LnkRegionSelector" href="https://www.webera.com/en-in/#" style="color:#fff;"> <span class="icon-text"></span>India</a>
+                        </div>
+                    </div>
+                </li> -->
+            </ul>
+            <form action="https://www.webera.com/" id="Search" method="post">
+                <input id="scController" name="scController" type="hidden" value="Header"><input id="scAction" name="scAction" type="hidden" value="Search_Click">
+                <div class="search-tab">
+                    <!-- <a id="SearchIcon"><i class="fa fa-search fa-2x icon-search"></i></a> -->
+                    <div class="search-input hidesearch">
+                        <input type="search" id="SearchInput" name="searchInput">
+                    </div>
+                </div>
+            </form>
+            <div class="toggle-tab navbar-toggler close-btn">
+                <i class="fa fa-bars fa-2x"></i>
+            </div>
+        </div>
+    </nav>
+      <div class="container-fluid" style="height: 3rem;z-index:-1;background-color: #274969;position: absolute;top: 7rem;" id="header-main-div">
+          <!-- <marquee onMouseOver="this.stop()" onMouseOut="this.start()"> -->
+    <div class="row">
+              
+         <div class="col-md-6 pt-2">
+              <span class="header-info">enquiries@instrumentation-solutions.com</span>
+          </div>
+       
+      
+      
+        
+          <div class="col-md-6 header-social">
+              
+              <a href="https://www.facebook.com/cispl2013"><span class="fa fa-facebook" aria-hidden="true"></span></a>
+             <a href=" https://instagram.com/cispl11?utm_medium=copy_link"><span class="fa fa-instagram" aria-hidden="true"></span></a>
+             <a href="https://mobile.twitter.com/cis_pvt"><span class="fa fa-twitter" aria-hidden="true"></span></a>
+             <a href=" https://www.linkedin.com/company/27544661/admin/"><span class="fa fa-linkedin" aria-hidden="true"></span></a>
+              <a href="https://www.youtube.com/channel/UCfe8lwUfN0RDrN5PX_B1A0w"><span class="fa fa-youtube-play" aria-hidden="true"></span></a>
+           
+        </div>
+      
+    </div>
+<!--   </marquee> -->
+  </div>
+</header>
+
+
+<a href="https://api.whatsapp.com/send?phone=+918586055228" class="float" target="_blank">
+<i class="fa fa-whatsapp my-float"></i>
+</a>
+<style type="text/css">
+
+#customers-testimonials .item-details {
+background-color: #333333;
+color: #fff;
+padding: 20px 10px;
+text-align: left;
+}
+#customers-testimonials .item-details h5 {
+margin: 0 0 15px;
+font-size: 18px;
+line-height: 18px;
+}
+#customers-testimonials .item-details h5 span {
+color: red;
+float: right;
+padding-right: 20px;
+}
+#customers-testimonials .item-details p {
+font-size: 14px;
+}
+#customers-testimonials .item {
+text-align: center;
+margin-bottom: 80px;
+}
+.owl-carousel .owl-nav [class*=owl-] {
+transition: all 0.3s ease;
+}
+.owl-carousel .owl-nav [class*=owl-].disabled:hover {
+background-color: #d6d6d6;
+}
+.owl-carousel {
+position: relative;
+}
+.slick-slide img {
+display: inline!important;
+}
+
+.brochures-content ul li{
+    line-height: 2.2rem;
+}
+.news-content ul li{
+    line-height: 2.8rem;
+}
+.news-content ul li a{
+   font-size: 1.3rem;
+}
+.brochures-content ul li{
+	list-style: none!important;
+}
+.video-background-content ul li {
+    line-height: 1.8rem;
+}
+.owl-buttons {
+  display: none;
+}
+.owl-carousel:hover .owl-buttons {
+  display: block;
+}
+
+.owl-item {
+  text-align: center;
+  margin-right: 0px!important;
+}
+
+.owl-theme .owl-controls .owl-buttons div {
+  background: transparent;
+ 
+  font-size: 40px;
+  line-height: 300px;
+  margin: 0;
+  padding: 0 60px;
+  position: absolute;
+  top: 0;
+}
+.owl-theme .owl-controls .owl-buttons .owl-prev {
+  left: 0;
+  padding-left: 20px;
+  top: -40px;
+}
+.owl-theme .owl-controls .owl-buttons .owl-next {
+  right: 0;
+  padding-right: 20px;
+  top: -40px;
+}
+.fa-inverse {
+    color: #274969 !important;
+}
+.video-background-content ul li {
+    line-height: 1.6rem;
+}
+.product-ani:hover{
+  transform: scale(1.1);
+}
+@media (max-width: 360px){
+	.section__header h2{
+		font-size: 32px!important;
+	}
+	.news-img img{
+		width: 100%!important;
+	}
+	.footer-right{
+		padding-left: 0rem!important;
+	}
+}
+.video-background-holder {
+    top: 140px;
+    position: relative;
+    background-color: black;
+    height: calc(100vh - 72px);
+    min-height: 55rem;
+    width: 100%;
+    overflow: hidden;
+}
+</style>
+
+<!-- Background video -->
+<div class="video-background-holder">
+  <div class="video-background-overlay"></div>
+  <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+    <source src="Short -clip.mp4" type="video/mp4">
+  </video><!-- end video source-->
+  <div class="video-background-content container-fluid">
+    <div class="row">
+      <div class="col-md-3 text-center pr-5">
+        <div class="text-white mt-1 pr-5">
+          <ul>
+                          <li><!-- <span class="icon"><i class="fa fa-home" aria-hidden="true"></i></span> -->
+              	<a href="detail.php?id=Materials Testing"><img src="http://www.instrumentation-solutions.com/media/product//235283940_851864523_wille geo.png" style="border-radius: 50%;width: 40px;height: 40px;margin-bottom: 2px;"></a>
+              <a href="detail.php?id=Materials Testing"><br><small class="header-icon">Materials Testing</small></a></li>
+                          <li><!-- <span class="icon"><i class="fa fa-home" aria-hidden="true"></i></span> -->
+              	<a href="detail.php?id=Geodynamic Studies"><img src="http://www.instrumentation-solutions.com/media/product//998816579_geodynamics.PNG" style="border-radius: 50%;width: 40px;height: 40px;margin-bottom: 2px;"></a>
+              <a href="detail.php?id=Geodynamic Studies"><br><small class="header-icon">Geodynamic Studies</small></a></li>
+                          <li><!-- <span class="icon"><i class="fa fa-home" aria-hidden="true"></i></span> -->
+              	<a href="detail.php?id=Earthquake Research"><img src="http://www.instrumentation-solutions.com/media/product//404449996_319755155_earthquake research.jpg" style="border-radius: 50%;width: 40px;height: 40px;margin-bottom: 2px;"></a>
+              <a href="detail.php?id=Earthquake Research"><br><small class="header-icon">Earthquake Research</small></a></li>
+                          <li><!-- <span class="icon"><i class="fa fa-home" aria-hidden="true"></i></span> -->
+              	<a href="detail.php?id=Geophysical  Exploration"><img src="http://www.instrumentation-solutions.com/media/product//582088128_Solitary_Oil_Rig_In_The_Arabian_Sea.jpg" style="border-radius: 50%;width: 40px;height: 40px;margin-bottom: 2px;"></a>
+              <a href="detail.php?id=Geophysical  Exploration"><br><small class="header-icon">Geophysical  Exploration</small></a></li>
+                          <li><!-- <span class="icon"><i class="fa fa-home" aria-hidden="true"></i></span> -->
+              	<a href="detail.php?id=Microzonation Studies"><img src="http://www.instrumentation-solutions.com/media/product//882843026_746767866_Microzonation Studies.jpg" style="border-radius: 50%;width: 40px;height: 40px;margin-bottom: 2px;"></a>
+              <a href="detail.php?id=Microzonation Studies"><br><small class="header-icon">Microzonation Studies</small></a></li>
+                          <li><!-- <span class="icon"><i class="fa fa-home" aria-hidden="true"></i></span> -->
+              	<a href="detail.php?id=Research and Development"><img src="http://www.instrumentation-solutions.com/media/product//475217864_rnd.png" style="border-radius: 50%;width: 40px;height: 40px;margin-bottom: 2px;"></a>
+              <a href="detail.php?id=Research and Development"><br><small class="header-icon">Research and Development</small></a></li>
+                          <li><!-- <span class="icon"><i class="fa fa-home" aria-hidden="true"></i></span> -->
+              	<a href="detail.php?id=Structural Health Evaluation"><img src="http://www.instrumentation-solutions.com/media/product//692809923_image0047.jpg" style="border-radius: 50%;width: 40px;height: 40px;margin-bottom: 2px;"></a>
+              <a href="detail.php?id=Structural Health Evaluation"><br><small class="header-icon">Structural Health Evaluation</small></a></li>
+                        
+
+<!-- 
+            <li><span class="icon"><i class="fa fa-home" aria-hidden="true"></i></span><a href="http://www.instrumentation-solutions.com/?focus-area=geodynamic-studies"><br><small class="header-icon">Geodynamic Studies</small></a></li>
+            <li><span class="icon"><i class="fa fa-home" aria-hidden="true"></i></span><a href="http://www.instrumentation-solutions.com/?focus-area=geophysical-exploration"><br><small class="header-icon">Geophysical Exploration</small></a></li>
+            <li><span class="icon"><i class="fa fa-home" aria-hidden="true"></i></span><a href="http://www.instrumentation-solutions.com/?focus-area=glaciology"><br><small class="header-icon">Glaciology</small></a></li>
+            <li><span class="icon"><i class="fa fa-home" aria-hidden="true"></i></span><a href="http://www.instrumentation-solutions.com/?focus-area=green-energy"><br><small class="header-icon">Green Energy</small></a></li>
+            <li><span class="icon"><i class="fa fa-home" aria-hidden="true"></i></span>
+            <a href="http://www.instrumentation-solutions.com/?focus-area=automotive-aerospace-engineering"><br><small class="header-icon">Automotive & Aerospace Engineering</small>
+            </a></li>
+            <li><span class="icon"><i class="fa fa-home" aria-hidden="true"></i></span>
+            <a href="http://www.instrumentation-solutions.com/?focus-area=automotive-aerospace-engineering"><br><small class="header-icon">Unmanned Aerial Vehicles</small>
+            </a></li> -->
+          </ul>
+          <!--  <h1 class="display-4">Landing Page with video background</h1>
+          <p class="lead mb-0">Made with HTML5 and Bootstrap 4</p>
+          <p class="lead">
+            <a href="#" class="btn btn-light">Click Here to Enter</a>
+          </p> -->
+        </div>
+      </div>
+      <div class="col-md-6 text-center">
+        <div class="w-100 text-white">
+          <h1 class="display-4" style="text-transform: uppercase;padding-top: 6%;">from concept to completion</h1>
+          
+          <!-- <p class="lead">
+            <a href="#" class="btn btn-light">Click Here to Enter</a>
+          </p> -->
+        </div>
+        </div><!-- end text/button area -->
+
+        <div class="col-md-3 text-center">
+          <div class="text-white">
+            <ul>
+                            <li><!-- <span class="icon"><i class="fa fa-home" aria-hidden="true"></i></span> -->
+              	<a href="detail.php?id=Green Energy"><img src="http://www.instrumentation-solutions.com/media/product//850823205_801566353_Green Energy.jpg" style="border-radius: 50%;width: 40px;height: 40px;margin-bottom: 2px;"></a>
+              <a href="detail.php?id=Green Energy"><br><small class="header-icon">Green Energy</small></a></li>
+                          <li><!-- <span class="icon"><i class="fa fa-home" aria-hidden="true"></i></span> -->
+              	<a href="detail.php?id=Glaciology"><img src="http://www.instrumentation-solutions.com/media/product//897790617_glaciologyyy.jpg" style="border-radius: 50%;width: 40px;height: 40px;margin-bottom: 2px;"></a>
+              <a href="detail.php?id=Glaciology"><br><small class="header-icon">Glaciology</small></a></li>
+                          <li><!-- <span class="icon"><i class="fa fa-home" aria-hidden="true"></i></span> -->
+              	<a href="detail.php?id=Pavement Evaluation"><img src="http://www.instrumentation-solutions.com/media/product//899295919_Pave1.png" style="border-radius: 50%;width: 40px;height: 40px;margin-bottom: 2px;"></a>
+              <a href="detail.php?id=Pavement Evaluation"><br><small class="header-icon">Pavement Evaluation</small></a></li>
+                          <li><!-- <span class="icon"><i class="fa fa-home" aria-hidden="true"></i></span> -->
+              	<a href="detail.php?id=Unmanned Aerial Vehicles"><img src="http://www.instrumentation-solutions.com/media/product//213606407_t67.png" style="border-radius: 50%;width: 40px;height: 40px;margin-bottom: 2px;"></a>
+              <a href="detail.php?id=Unmanned Aerial Vehicles"><br><small class="header-icon">Unmanned Aerial Vehicles</small></a></li>
+                          <li><!-- <span class="icon"><i class="fa fa-home" aria-hidden="true"></i></span> -->
+              	<a href="detail.php?id=Vibration and Shock Testing"><img src="http://www.instrumentation-solutions.com/media/product//331963744_Company-2.jpg" style="border-radius: 50%;width: 40px;height: 40px;margin-bottom: 2px;"></a>
+              <a href="detail.php?id=Vibration and Shock Testing"><br><small class="header-icon">Vibration and Shock Testing</small></a></li>
+                          <li><!-- <span class="icon"><i class="fa fa-home" aria-hidden="true"></i></span> -->
+              	<a href="detail.php?id=Railways"><img src="http://www.instrumentation-solutions.com/media/product//435413190_download (2).jpg" style="border-radius: 50%;width: 40px;height: 40px;margin-bottom: 2px;"></a>
+              <a href="detail.php?id=Railways"><br><small class="header-icon">Railways</small></a></li>
+                          <li><!-- <span class="icon"><i class="fa fa-home" aria-hidden="true"></i></span> -->
+              	<a href="detail.php?id=Automobile & Aerospace Engineering"><img src="http://www.instrumentation-solutions.com/media/product//148728054_41.png" style="border-radius: 50%;width: 40px;height: 40px;margin-bottom: 2px;"></a>
+              <a href="detail.php?id=Automobile & Aerospace Engineering"><br><small class="header-icon">Automobile & Aerospace Engineering</small></a></li>
+                         
+            </ul>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+ 
+    <!-- khjdhskjfhds -->
+    
+<section class="section" id="about">
+<div class="section__content">
+<div>
+
+<div class="hp-ss-container1">
+<div class="hp-ss-tabs">
+
+<div id="ss-content" class="tab-content hp-ss-tab-content" role="tablist">
+<div id="Our0" class="card tab-pane slide active show" role="tabpanel" aria-labelledby="tab-Our0">
+<div id="collapse-Our0" class="collapse" role="tabpanel" data-parent="#ss-content" aria-labelledby="heading-Our0">
+<div class="card-body hp-tab-details-container">
+<div class="hp-ss-container" style="padding: 0px 80px 0px 80px;">
+<div class="section__header">
+<h2>
+About Us
+</h2>
+</div>
+<h4 class="hp-tab-header animated fadeIn">About Us</h4>
+<!-- <div class="hp-tab-subheader">With you every step of the way</div> -->
+<div class="hp-title-underline"></div>
+<div class="hp-tab-body">
+<p class="animated fadeIn" style="text-align: center;"><p>Complete Instrumentation Solutions Private Limited (CISPL) was incorporated in year 2011 with its&nbsp;corporate offices in Gurgaon, India and now has presence in Hyderabad, Bangalore, Pune, Kolkata and&nbsp;Lucknow. It is private limited company managed and run by IIT alumni professionals. Our Technical Director, Mr. Neeraj Chadha, holds M.Tech (Applied Geophysics) from IIT, Roorkee and&nbsp;has around 34 years of experience in the field of Instrumentation. During these 34 years, he has served&nbsp;various capacities and has been responsible for introducing several innovative technologies in India&nbsp;in various domains. Some of these domains and technologies are:<br />
+<br />
+Earthquake Research - Broad Band Seismometers as per GSN standards (1996), Remote Reference&nbsp;Magneto Tellurics (RRMT 1998) and Superconducting Gravimeters (2006)<br />
+Geodynamic Studies - Borehole Strainmeters (2007)<br />
+Geophysical Exploration- Borehole Radar for mineral exploration (1989), Digital Instantaneous&nbsp;Floating-Point technology in exploration seismographs (1992), MT and Controlled Source MT&nbsp;(CSAMT) for Oil Exploration (1993), Marine Magneto Tellurics (2005) for offshore exploration,Ocean Bottom Seismometers (2007) for gas hydrate studies<br />
+Pavement Testing - Setting up of first testing lab as per SHRP in 2001, Accelerated Load Testing&nbsp;Facility (2009)<br />
+Materials Testing &ndash; Accelerated Stress Rupture Testing Machine with six loading units in single&nbsp;frame (2014), Polyaxial Testing System for Rocks (2014), Advanced testing system for simulation&nbsp;and testing of gas hydrates (2020) in the field of materials testingStructural Testing &ndash;Parallel Seismic and Ultra Seismic for NDT of bridges (2007), Automated bridge&nbsp;load rating system (2008), Fully automated Bridge Health Monitoring System (2010)</p>
+
+<p>To support local talent and entrepreneurship under Make in&nbsp;India initiative, he has been instrumental in developing Vehicle Mounted Intelligent Falling Weight Deflectometer and Mobile Bridge Inspection Units in India and is presently working with some more&nbsp;technologies under this initiative.Our philosophy is &lsquo;Concept to Completion.&rsquo; We hand hold our prospects and client through complete&nbsp;journey from conceptualization to completion to after sales support and further guiding and helping&nbsp;them in transitioning to newer relevant technologies for better efficiency, productivity, cost&nbsp;optimisation and better outcomes.</p></p>
+<div class="row">
+
+  <div class="hp-ts-card">
+    <div class="hp-ts-card-details" style="height: 300px;">
+<div class="hp-vertical-divne"></div> 
+
+<img src="http://www.instrumentation-solutions.com/media/product/539640564_WhatsApp Image 2022-10-10 at 9.05.34 AM.jpeg" alt="" height="220" width="400">
+
+</div>
+    
+  </div>
+  
+  <div class="hp-ts-card">
+    <div class="hp-ts-card-details" style="height: 300px;">
+<div class="hp-vertical-divne"></div> 
+
+<img src="http://www.instrumentation-solutions.com/media/product/670552804_1654236938732.jfif" alt="" height="220" width="400">
+
+</div>
+    
+  </div>
+
+
+</div>
+
+<div style="background: #fff;padding: 34px;overflow: hidden;color: #676767;box-shadow: 0px 6px 21px #c3c3c3;">
+<div style="float: left;display: block;width: 28%;"><img src="./demo_files/ab1.png" alt=""></div>
+<div style="float: left;width: 28%;font-size: 14px;line-height: 26px;">
+  <p>We provide comprehensive solutions in the fields of:-</p>
+<ul class="animated fadeIn">
+ 
+  <li> <a href="product.php?id=Materials Testing"> Materials Testing</a></li>
+ 
+  <li> <a href="product.php?id=Geodynamic Studies"> Geodynamic Studies</a></li>
+ 
+  <li> <a href="product.php?id=Earthquake Research"> Earthquake Research</a></li>
+ 
+  <li> <a href="product.php?id=Geophysical  Exploration"> Geophysical  Exploration</a></li>
+ 
+  <li> <a href="product.php?id=Microzonation Studies"> Microzonation Studies</a></li>
+ 
+  <li> <a href="product.php?id=Research and Development"> Research and Development</a></li>
+ 
+  <li> <a href="product.php?id=Structural Health Evaluation"> Structural Health Evaluation</a></li>
+ 
+  <li> <a href="product.php?id=Green Energy"> Green Energy</a></li>
+ 
+  <li> <a href="product.php?id=Glaciology"> Glaciology</a></li>
+ 
+  <li> <a href="product.php?id=Pavement Evaluation"> Pavement Evaluation</a></li>
+ 
+  <li> <a href="product.php?id=Unmanned Aerial Vehicles"> Unmanned Aerial Vehicles</a></li>
+ 
+  <li> <a href="product.php?id=Vibration and Shock Testing"> Vibration and Shock Testing</a></li>
+ 
+  <li> <a href="product.php?id=Railways"> Railways</a></li>
+ 
+  <li> <a href="product.php?id=Automobile & Aerospace Engineering"> Automobile & Aerospace Engineering</a></li>
+<!-- <li> <a href="product.php?id="></a> Earthquake Research</li>
+<li> <a href="product.php?id="></a> Structural Health Evaluation</li>
+<li> <a href="product.php?id="></a> Pavement Evaluation</li>
+<li> <a href="product.php?id="></a> Geophysical Exploration</li>
+<li> <a href="product.php?id="></a> Research &amp; Development</li>
+<li> <a href="product.php?id="></a> Automotive &amp; AerospaceEngineering</li>
+<li> <a href="product.php?id="></a> Materials Testing</li>
+<li> <a href="product.php?id="></a> Sound and Vibration</li>
+<li> <a href="product.php?id="></a> Railways</li>
+<li> <a href="product.php?id="></a> Microzonation Studies</li>
+<li> <a href="product.php?id="></a> Glaciology</li> -->
+</ul>
+</div>
+
+<div style="float: left;display: block;width: 43%;font-size: 14px;">
+<p class="animated fadeIn"><p>We are associated with the leading companies in the said fields and offer a comprehensive suite of equipment and services that can take a project from concept to completion.</p>
+
+<p>Our Geophysical Exploration Services group offers wide range of services for Oil and Gas, Coal Bed Methane, Gas Hydrates, Shale, Mineral &amp; Water Exploration,Engineering Geophysics.</p>
+
+<p>Structural Health Evaluation group offers comprehensive solutions for structural monitoring and safety. This includes the design of the system, its delivery and installation, maintenance and operation, web access to data and data analysis by experienced engineering partners. We also conduct Advanced Non Destructive Evaluation of Structures using the latest equipment/technologies.</p>
+
+<p>Pavement Evaluation Services group of our company is equipped with the latest technologies to conduct functional and structural evaluation of the pavements and much more. We also conduct Independent Audits for Quantity Assurance and Quality Control.<br />
+<br />
+Our Railways Testing Services group in association with overseas principals offers comprehensive services for testing of Rail Road Track, Bridges and Structures for sub surface flaws with advanced testing equipment and technologies with goal to maximize flaw detection, productivity and safety.</p> </p></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</section>
+
+ <div class="hp-absolute-container text-center" style="height: 10px;padding-top: -1rem;margin-top: 5rem;">
+    <div class="hp-products-container">
+      <div class="hp-title">
+        OUR PRODUCTS
+        <div class="hp-title-underline"></div>
+      </div>
+    </div>
+    
+  </div>
+  <section style="padding-bottom: 1rem;padding-top:1rem;width:100%;background: linear-gradient(
+    90deg, rgb(23 48 72 / 85%), rgb(0 0 0 / 81%) );overflow-x: hidden;">
+    <div id="owl-example" class="owl-carousel pl-3 pr-5">
+
+            <a href="product.php?id=Materials Testing"><div class="text-center product-ani mt-4" style="border: none;height: 300px;border-radius: 50%;">
+        <img src="http://www.instrumentation-solutions.com/media/product//235283940_851864523_wille geo.png" style="border-radius: 50%;height: 225px;width: 50%;"/>
+        <p class="mt-4" style="color: #fff;">Materials Testing</p>
+      </div>
+      </a>
+
+            <a href="product.php?id=Geodynamic Studies"><div class="text-center product-ani mt-4" style="border: none;height: 300px;border-radius: 50%;">
+        <img src="http://www.instrumentation-solutions.com/media/product//998816579_geodynamics.PNG" style="border-radius: 50%;height: 225px;width: 50%;"/>
+        <p class="mt-4" style="color: #fff;">Geodynamic Studies</p>
+      </div>
+      </a>
+
+            <a href="product.php?id=Earthquake Research"><div class="text-center product-ani mt-4" style="border: none;height: 300px;border-radius: 50%;">
+        <img src="http://www.instrumentation-solutions.com/media/product//404449996_319755155_earthquake research.jpg" style="border-radius: 50%;height: 225px;width: 50%;"/>
+        <p class="mt-4" style="color: #fff;">Earthquake Research</p>
+      </div>
+      </a>
+
+            <a href="product.php?id=Geophysical  Exploration"><div class="text-center product-ani mt-4" style="border: none;height: 300px;border-radius: 50%;">
+        <img src="http://www.instrumentation-solutions.com/media/product//582088128_Solitary_Oil_Rig_In_The_Arabian_Sea.jpg" style="border-radius: 50%;height: 225px;width: 50%;"/>
+        <p class="mt-4" style="color: #fff;">Geophysical  Exploration</p>
+      </div>
+      </a>
+
+            <a href="product.php?id=Microzonation Studies"><div class="text-center product-ani mt-4" style="border: none;height: 300px;border-radius: 50%;">
+        <img src="http://www.instrumentation-solutions.com/media/product//882843026_746767866_Microzonation Studies.jpg" style="border-radius: 50%;height: 225px;width: 50%;"/>
+        <p class="mt-4" style="color: #fff;">Microzonation Studies</p>
+      </div>
+      </a>
+
+            <a href="product.php?id=Research and Development"><div class="text-center product-ani mt-4" style="border: none;height: 300px;border-radius: 50%;">
+        <img src="http://www.instrumentation-solutions.com/media/product//475217864_rnd.png" style="border-radius: 50%;height: 225px;width: 50%;"/>
+        <p class="mt-4" style="color: #fff;">Research and Development</p>
+      </div>
+      </a>
+
+            <a href="product.php?id=Structural Health Evaluation"><div class="text-center product-ani mt-4" style="border: none;height: 300px;border-radius: 50%;">
+        <img src="http://www.instrumentation-solutions.com/media/product//692809923_image0047.jpg" style="border-radius: 50%;height: 225px;width: 50%;"/>
+        <p class="mt-4" style="color: #fff;">Structural Health Evaluation</p>
+      </div>
+      </a>
+
+            <a href="product.php?id=Green Energy"><div class="text-center product-ani mt-4" style="border: none;height: 300px;border-radius: 50%;">
+        <img src="http://www.instrumentation-solutions.com/media/product//850823205_801566353_Green Energy.jpg" style="border-radius: 50%;height: 225px;width: 50%;"/>
+        <p class="mt-4" style="color: #fff;">Green Energy</p>
+      </div>
+      </a>
+
+            <a href="product.php?id=Glaciology"><div class="text-center product-ani mt-4" style="border: none;height: 300px;border-radius: 50%;">
+        <img src="http://www.instrumentation-solutions.com/media/product//897790617_glaciologyyy.jpg" style="border-radius: 50%;height: 225px;width: 50%;"/>
+        <p class="mt-4" style="color: #fff;">Glaciology</p>
+      </div>
+      </a>
+
+            <a href="product.php?id=Pavement Evaluation"><div class="text-center product-ani mt-4" style="border: none;height: 300px;border-radius: 50%;">
+        <img src="http://www.instrumentation-solutions.com/media/product//899295919_Pave1.png" style="border-radius: 50%;height: 225px;width: 50%;"/>
+        <p class="mt-4" style="color: #fff;">Pavement Evaluation</p>
+      </div>
+      </a>
+
+            <a href="product.php?id=Unmanned Aerial Vehicles"><div class="text-center product-ani mt-4" style="border: none;height: 300px;border-radius: 50%;">
+        <img src="http://www.instrumentation-solutions.com/media/product//213606407_t67.png" style="border-radius: 50%;height: 225px;width: 50%;"/>
+        <p class="mt-4" style="color: #fff;">Unmanned Aerial Vehicles</p>
+      </div>
+      </a>
+
+            <a href="product.php?id=Vibration and Shock Testing"><div class="text-center product-ani mt-4" style="border: none;height: 300px;border-radius: 50%;">
+        <img src="http://www.instrumentation-solutions.com/media/product//331963744_Company-2.jpg" style="border-radius: 50%;height: 225px;width: 50%;"/>
+        <p class="mt-4" style="color: #fff;">Vibration and Shock Testing</p>
+      </div>
+      </a>
+
+            <a href="product.php?id=Railways"><div class="text-center product-ani mt-4" style="border: none;height: 300px;border-radius: 50%;">
+        <img src="http://www.instrumentation-solutions.com/media/product//435413190_download (2).jpg" style="border-radius: 50%;height: 225px;width: 50%;"/>
+        <p class="mt-4" style="color: #fff;">Railways</p>
+      </div>
+      </a>
+
+            <a href="product.php?id=Automobile & Aerospace Engineering"><div class="text-center product-ani mt-4" style="border: none;height: 300px;border-radius: 50%;">
+        <img src="http://www.instrumentation-solutions.com/media/product//148728054_41.png" style="border-radius: 50%;height: 225px;width: 50%;"/>
+        <p class="mt-4" style="color: #fff;">Automobile & Aerospace Engineering</p>
+      </div>
+      </a>
+
+              
+        </div>
+
+  </section>
+
+<section class="section">
+<div class="section__header">
+
+</div>
+
+<div class="section__content">
+<div>
+
+
+<div class="hp-ts-container">
+<div class="section__header" style="z-index: 1;">
+<h2>Services
+</h2>
+</div>
+<div class="hp-ts-content">
+<div class="hp-ts-header-container" style="padding: 0px;">
+<!-- <div class="hp-ts-eyebrow">#1 CHOICE FOR</div>
+ --><div class="hp-ts-title">Services</div>
+
+</div>
+<div class="hp-ts-card-container">
+<div class="hp-ts-cards">
+    <div class="hp-ts-cards">
+  <div class="row">
+  
+
+<div class="col-md-6">
+
+  <div class="hp-ts-card">
+    <div class="hp-ts-card-details" style="height: 400px;">
+<div class="hp-vertical-divne"></div> 
+<a href="" data-toggle="modal" data-target="#exampleModal25"><div class="hp-ts-card-title">Pavement Testing Services</div></a>
+<a href="http://www.instrumentation-solutions.com/media/product/363631459_Pavement Testing Services- Rev.pdf" target="_blank"><img src="http://www.instrumentation-solutions.com/media/product/415436557_KUAB.PNG" alt="" height="220" width="400"></a>
+</div>
+    
+  </div>
+
+
+</div>
+
+  <div class="modal fade" id="exampleModal25" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <h5 class="modal-title" id="exampleModalLabel" style="color: black;">Pavement Testing Services</h5>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                      </button>
+                    </div>
+                      <div class="modal-body">
+                      <h5  id="exampleModalLabel" style="color: black;"><p>CIS in close cooperation with its associates, who have technical combined of experience in practical road maintenance many decades with high-technology know-how on software development, provides a host of services for comprehensive health evaluation of pavements including quality control and quality assurance audits and development of Integrated Asset Management System.</p></h5>
+                      
+                  
+                  
+                 
+                  
+                    </div>
+                   
+                  </div>
+                </div>
+            </div>
+
+<div class="col-md-6">
+
+  <div class="hp-ts-card">
+    <div class="hp-ts-card-details" style="height: 400px;">
+<div class="hp-vertical-divne"></div> 
+<a href="" data-toggle="modal" data-target="#exampleModal26"><div class="hp-ts-card-title">Structural Health Monitoring and Evaluation</div></a>
+<a href="http://www.instrumentation-solutions.com/media/product/279565683_Structural Health Monitoring and Evaluation.pdf" target="_blank"><img src="http://www.instrumentation-solutions.com/media/product/544042766_structural health monitoring.PNG" alt="" height="220" width="400"></a>
+</div>
+    
+  </div>
+
+
+</div>
+
+  <div class="modal fade" id="exampleModal26" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <h5 class="modal-title" id="exampleModalLabel" style="color: black;">Structural Health Monitoring and Evaluation</h5>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                      </button>
+                    </div>
+                      <div class="modal-body">
+                      <h5  id="exampleModalLabel" style="color: black;"><p>Description</p></h5>
+                      
+                  
+                  
+                 
+                  
+                    </div>
+                   
+                  </div>
+                </div>
+            </div>
+
+<div class="col-md-6">
+
+  <div class="hp-ts-card">
+    <div class="hp-ts-card-details" style="height: 400px;">
+<div class="hp-vertical-divne"></div> 
+<a href="" data-toggle="modal" data-target="#exampleModal27"><div class="hp-ts-card-title">Geophysical Services</div></a>
+<a href="http://www.instrumentation-solutions.com/media/product/906208563_588993440_Geophysical services - CIS.pdf" target="_blank"><img src="http://www.instrumentation-solutions.com/media/product/629540636_geoserv.PNG" alt="" height="220" width="400"></a>
+</div>
+    
+  </div>
+
+
+</div>
+
+  <div class="modal fade" id="exampleModal27" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <h5 class="modal-title" id="exampleModalLabel" style="color: black;">Geophysical Services</h5>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                      </button>
+                    </div>
+                      <div class="modal-body">
+                      <h5  id="exampleModalLabel" style="color: black;"><p>Our Geophysical Exploration Services group offers wide range of services for Oil and Gas, Coal Bed Methane, Gas Hydrates, Shale, Mineral &amp; Water Exploration, Engineering Geophysics etc.</p></h5>
+                      
+                  
+                  
+                 
+                  
+                    </div>
+                   
+                  </div>
+                </div>
+            </div>
+
+<div class="col-md-6">
+
+  <div class="hp-ts-card">
+    <div class="hp-ts-card-details" style="height: 400px;">
+<div class="hp-vertical-divne"></div> 
+<a href="" data-toggle="modal" data-target="#exampleModal28"><div class="hp-ts-card-title">Railway Testing Services</div></a>
+<a href="http://www.instrumentation-solutions.com/media/product/530160046_wert.pdf" target="_blank"><img src="http://www.instrumentation-solutions.com/media/product/670600283_RTS.PNG" alt="" height="220" width="400"></a>
+</div>
+    
+  </div>
+
+
+</div>
+
+  <div class="modal fade" id="exampleModal28" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <h5 class="modal-title" id="exampleModalLabel" style="color: black;">Railway Testing Services</h5>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                      </button>
+                    </div>
+                      <div class="modal-body">
+                      <h5  id="exampleModalLabel" style="color: black;"><p>Description</p></h5>
+                      
+                  
+                  
+                 
+                  
+                    </div>
+                   
+                  </div>
+                </div>
+            </div>
+
+</div>
+
+</div>
+
+</div>
+<div class="hp-ts-image-container">
+<div class="hp-ts-image-cropper">
+<img src="./demo_files/TrustandSafety_3.jpg" class="hp-ts-background-image">
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<div>
+
+  <div class="hp-news-mobile-card"></div>
+  <div class="hp-news-footer">
+     <div style="margin-top: 10rem;"></div>
+     <a href="service.php" class="hp-btn-round hp-btn-primary">
+     View All
+     </a>
+  </div>
+</div>
+
+<!-- start brochures coding -->
+<section class="section container-fluid mt-5" id="about">
+<div class="section__content">
+<div>
+
+<div class="hp-ss-container1">
+<div class="hp-ss-tabs">
+
+<div id="ss-content" class="tab-content hp-ss-tab-content" role="tablist">
+<div id="Our0" class="card tab-pane slide active show" role="tabpanel" aria-labelledby="tab-Our0">
+<div id="collapse-Our0" class="collapse" role="tabpanel" data-parent="#ss-content" aria-labelledby="heading-Our0">
+<div class="card-body hp-tab-details-containe" style="background-color: #f0f0f0!important;">
+<div class="hp-ss-container" style="padding: 0px 80px 0px 80px;">
+<div class="section__header" style="z-index: 9;">
+<h2>
+Brochures
+</h2>
+</div>
+<h4 class="hp-tab-header">BROCHURES</h4>
+<!-- <div class="hp-tab-subheader">With you every step of the way</div> -->
+<div class="hp-title-underline"></div>
+<div class="hp-tab-body">
+       
+        <div class="row">
+            <div class="col-md-6">
+                <div class="brochures-img" style="overflow: hidden;">
+                    <img src="media/broch-new.png" style="width: 100%;height: 34rem;" class="animated slideInLeft">
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="brochures-content pt-5 pl-5" style="overflow: hidden;">
+                    <ul>
+                                                          <li class="animated slideInRight"><span class="fa fa-angle-double-right" style="font-size:18px;color: #274969;"></span><a href="http://www.instrumentation-solutions.com/media/product/634347795_743161283_721649584_materials-testing (1)_merged.pdf">&nbsp;&nbsp;Materials Testing</a></li>
+
+                                                              <li class="animated slideInRight"><span class="fa fa-angle-double-right" style="font-size:18px;color: #274969;"></span><a href="http://www.instrumentation-solutions.com/media/product/691724879_396971394_geodynamic-studies (1).pdf">&nbsp;&nbsp;Geodynamic Studies</a></li>
+
+                                                              <li class="animated slideInRight"><span class="fa fa-angle-double-right" style="font-size:18px;color: #274969;"></span><a href="http://www.instrumentation-solutions.com/media/product/131151944_618118837_earthquake-research (1).pdf">&nbsp;&nbsp;Earthquake Research</a></li>
+
+                                                              <li class="animated slideInRight"><span class="fa fa-angle-double-right" style="font-size:18px;color: #274969;"></span><a href="http://www.instrumentation-solutions.com/media/product/636800209_495679465_geophysical-exploration.pdf">&nbsp;&nbsp;Geophysical  Exploration</a></li>
+
+                                                              <li class="animated slideInRight"><span class="fa fa-angle-double-right" style="font-size:18px;color: #274969;"></span><a href="http://www.instrumentation-solutions.com/media/product/635096613_373384059_microzonation-studies.pdf">&nbsp;&nbsp;Microzonation Studies</a></li>
+
+                                                              <li class="animated slideInRight"><span class="fa fa-angle-double-right" style="font-size:18px;color: #274969;"></span><a href="http://www.instrumentation-solutions.com/media/product/482371617_952911411_research-and-development.pdf">&nbsp;&nbsp;Research and Development</a></li>
+
+                                                              <li class="animated slideInRight"><span class="fa fa-angle-double-right" style="font-size:18px;color: #274969;"></span><a href="http://www.instrumentation-solutions.com/media/product/786787096_874494069_structural-health-evaluation.pdf">&nbsp;&nbsp;Structural Health Evaluation</a></li>
+
+                                                              <li class="animated slideInRight"><span class="fa fa-angle-double-right" style="font-size:18px;color: #274969;"></span><a href="http://www.instrumentation-solutions.com/media/product/946169741_279922538_green-energy.pdf">&nbsp;&nbsp;Green Energy</a></li>
+
+                                                              <li class="animated slideInRight"><span class="fa fa-angle-double-right" style="font-size:18px;color: #274969;"></span><a href="http://www.instrumentation-solutions.com/media/product/259207560_963776585_glaciology (1).pdf">&nbsp;&nbsp;Glaciology</a></li>
+
+                                                              <li class="animated slideInRight"><span class="fa fa-angle-double-right" style="font-size:18px;color: #274969;"></span><a href="http://www.instrumentation-solutions.com/media/product/944274321_776457293_pavement-evaluation4.pdf">&nbsp;&nbsp;Pavement Evaluation</a></li>
+
+                                                              <li class="animated slideInRight"><span class="fa fa-angle-double-right" style="font-size:18px;color: #274969;"></span><a href="http://www.instrumentation-solutions.com/media/product/665951343_unmanned-aerial-vehicles.pdf">&nbsp;&nbsp;Unmanned Aerial Vehicles</a></li>
+
+                                                              <li class="animated slideInRight"><span class="fa fa-angle-double-right" style="font-size:18px;color: #274969;"></span><a href="http://www.instrumentation-solutions.com/media/product/658032505_210564497_Vibration-Shock-Testing.pdf">&nbsp;&nbsp;Vibration and Shock Testing</a></li>
+
+                                                              <li class="animated slideInRight"><span class="fa fa-angle-double-right" style="font-size:18px;color: #274969;"></span><a href="http://www.instrumentation-solutions.com/media/product/567966931_756375684_railways.pdf">&nbsp;&nbsp;Railways</a></li>
+
+                                                              <li class="animated slideInRight"><span class="fa fa-angle-double-right" style="font-size:18px;color: #274969;"></span><a href="http://www.instrumentation-solutions.com/media/product/568957237_automotive & aerospace engineering.pdf">&nbsp;&nbsp;Automobile & Aerospace Engineering</a></li>
+
+                            
+                       <!--  <li><span class="fa fa-angle-double-right" style="font-size:18px;color: #274969;"></span><a href="#">&nbsp;&nbsp;MATERIALS TESTING</a></li>
+                        <li><span class="fa fa-angle-double-right" style="font-size:18px;color: #274969;"></span><a href="#">&nbsp;&nbsp;GEODYNAMIC STUDIES</a></li>
+                        <li><span class="fa fa-angle-double-right" style="font-size:18px;color: #274969;"></span><a href="#">&nbsp;&nbsp;EARTHQUAKE RESEARCH</a></li>
+                        <li><span class="fa fa-angle-double-right" style="font-size:18px;color: #274969;"></span><a href="#">&nbsp;&nbsp;GEOPHYSICAL EXPLORATION</a></li>
+                        <li><span class="fa fa-angle-double-right" style="font-size:18px;color: #274969;"></span><a href="#">&nbsp;&nbsp;MICROZONATION STUDIES</a></li>
+                        <li><span class="fa fa-angle-double-right" style="font-size:18px;color: #274969;"></span><a href="#">&nbsp;&nbsp;RESEARCH & DEVELOPMENT</a></li>
+                        <li><span class="fa fa-angle-double-right" style="font-size:18px;color: #274969;"></span><a href="#">&nbsp;&nbsp;STRUCTURAL HEALTH EVALUATION</a></li>
+                        <li><span class="fa fa-angle-double-right" style="font-size:18px;color: #274969;"></span><a href="#">&nbsp;&nbsp;AUTOMOTIVE & AEROSPACE ENGINEERING</a></li>
+                        <li><span class="fa fa-angle-double-right" style="font-size:18px;color: #274969;"></span><a href="#">&nbsp;&nbsp;RAILWAYS</a></li>
+                        <li><span class="fa fa-angle-double-right" style="font-size:18px;color: #274969;"></span><a href="#">&nbsp;&nbsp;GREEN ENERGY</a></li>
+                        <li><span class="fa fa-angle-double-right" style="font-size:18px;color: #274969;"></span><a href="#">&nbsp;&nbsp;GLACIOLOGY</a></li>
+                        <li><span class="fa fa-angle-double-right" style="font-size:18px;color: #274969;"></span><a href="#">&nbsp;&nbsp;UNMANNED AERIAL VEHICALS</a></li>
+                        <li><span class="fa fa-angle-double-right" style="font-size:18px;color: #274969;"></span><a href="#">&nbsp;&nbsp;VIBRATION & SHOCK TEASTING</a></li>
+                        <li><span class="fa fa-angle-double-right" style="font-size:18px;color: #274969;"></span><a href="#">&nbsp;&nbsp;PAVEMENT EVALUATION</a></li> -->
+                    </ul>
+                </div>
+
+    </div>
+    
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</section>
+
+
+
+<!-- end brochures coding -->
+
+<!-- start coding news and event -->
+<section class="section" style="margin-top: 4rem!important;background-color: #fff;">
+<div class="section__header">
+
+</div>
+
+<div class="section__content">
+<div>
+
+
+<div class="hp-ts-container" style="background: none;">
+<div class="section__header" style="z-index: 9;">
+<h2 style="font-size: 83px;">News/Newsletters
+</h2>
+</div>
+<div class="hp-ts-content">
+<div class="hp-ts-header-container" style="padding: 0px;">
+<!-- <div class="hp-ts-eyebrow">#1 CHOICE FOR</div>
+ -->
+ <h4 style="font-size: 35px;color: #3d3834;">NEWS/NEWSLETTERS</h4>
+<!-- <div class="hp-tab-subheader">With you every step of the way</div> -->
+<div class="hp-title-underline"></div>
+</div>
+<div class="hp-ts-card-container">
+	<div class="container-fluid" style="padding-bottom: 5rem;">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="news-content pt-5 pl-5" style="overflow: hidden!important;">
+                    <ul>
+                        
+                        <li class="animated slideInLeft"><span class="fa fa-angle-double-right" style="font-size:18px;color: #274969;"></span><a href="http://www.instrumentation-solutions.com/media/news/590632169_Technologically-Innovative Instruments for Geophysical Exploration_News Lettter.pdf">&nbsp;&nbsp; Advanced Geophysical Instruments</a></li>
+                        
+                        <li class="animated slideInLeft"><span class="fa fa-angle-double-right" style="font-size:18px;color: #274969;"></span><a href="http://www.instrumentation-solutions.com/media/news/353128368_880853561_431572505_548174459_Advanced Material Testing (1).pdf">&nbsp;&nbsp; Advanced Material Testing</a></li>
+                        
+                        <li class="animated slideInLeft"><span class="fa fa-angle-double-right" style="font-size:18px;color: #274969;"></span><a href="http://www.instrumentation-solutions.com/media/news/292912038_News Letter for Advanced Geotechnical Testing System.pdf">&nbsp;&nbsp; Advanced Geotechnical Testing System</a></li>
+                        
+                        <li class="animated slideInLeft"><span class="fa fa-angle-double-right" style="font-size:18px;color: #274969;"></span><a href="http://www.instrumentation-solutions.com/media/news/745183718_123324353_774113677_794528877_Automotive Testing.pdf">&nbsp;&nbsp; Automotive Testing</a></li>
+                        
+                        <li class="animated slideInLeft"><span class="fa fa-angle-double-right" style="font-size:18px;color: #274969;"></span><a href="http://www.instrumentation-solutions.com/media/news/543867601_234097933_794269751_279089338_Non Destructive Material Testing (1).pdf">&nbsp;&nbsp; Non Destructive Material Testing</a></li>
+                        
+                        <li class="animated slideInLeft"><span class="fa fa-angle-double-right" style="font-size:18px;color: #274969;"></span><a href="http://www.instrumentation-solutions.com/media/news/346540975_801439760_479071429_645135950_631003793_Railways Testing  (1) (2).pdf">&nbsp;&nbsp; Railways Testing</a></li>
+                        
+                        <li class="animated slideInLeft"><span class="fa fa-angle-double-right" style="font-size:18px;color: #274969;"></span><a href="http://www.instrumentation-solutions.com/media/news/569100443_Structural Health Monitoring.pdf">&nbsp;&nbsp; Structural Health Monitoring</a></li>
+                        
+                        <li class="animated slideInLeft"><span class="fa fa-angle-double-right" style="font-size:18px;color: #274969;"></span><a href="http://www.instrumentation-solutions.com/media/news/256329860_Vibration & Shock Testing Newsletter.pdf">&nbsp;&nbsp; Vibration & Shock Testing</a></li>
+                        
+                        <li class="animated slideInLeft"><span class="fa fa-angle-double-right" style="font-size:18px;color: #274969;"></span><a href="http://www.instrumentation-solutions.com/media/news/540091628_Testimonials from the Clients on ROMDAS CLINIC.pdf">&nbsp;&nbsp; Testimonials from clients on ROMDAS CLINIC</a></li>
+                        
+                        <li class="animated slideInLeft"><span class="fa fa-angle-double-right" style="font-size:18px;color: #274969;"></span><a href="http://www.instrumentation-solutions.com/media/news/173308689_PavementMoni. -Newsletter-2023.pdf">&nbsp;&nbsp; Pavement Instrumentation</a></li>
+                        
+                        <li class="animated slideInLeft"><span class="fa fa-angle-double-right" style="font-size:18px;color: #274969;"></span><a href="http://www.instrumentation-solutions.com/media/news/898637365_Electrodynaic Actuators Newsletter.pdf">&nbsp;&nbsp; Electrodynamic Actuators</a></li>
+                        
+                        <li class="animated slideInLeft"><span class="fa fa-angle-double-right" style="font-size:18px;color: #274969;"></span><a href="http://www.instrumentation-solutions.com/media/news/195929315_Mapping of Unknown Foundations.pdf">&nbsp;&nbsp; Mapping of Unknown Foundations</a></li>
+                        
+                        <li class="animated slideInLeft"><span class="fa fa-angle-double-right" style="font-size:18px;color: #274969;"></span><a href="http://www.instrumentation-solutions.com/media/news/878183523_Structural Testing & Pavement Condition Survey.pdf">&nbsp;&nbsp; Structural Testing & Pavement Condition Survey</a></li>
+                                               <!--  <li><span class="fa fa-angle-double-right" style="font-size:18px;color: #274969;"></span><a href="#">&nbsp;&nbsp;Advanced Material Testing-Volume-2 (2016)</a></li>
+                        <li><span class="fa fa-angle-double-right" style="font-size:18px;color: #274969;"></span><a href="#">&nbsp;&nbsp;Advanced Geophysical Instruments-Volume-3 (2016)</a></li>
+                        <li><span class="fa fa-angle-double-right" style="font-size:18px;color: #274969;"></span><a href="#">&nbsp;&nbsp;Non Destructive Material Testing-Volume-4 (2016)</a></li>
+                        <li><span class="fa fa-angle-double-right" style="font-size:18px;color: #274969;"></span><a href="#">&nbsp;&nbsp; Structural Health Evaluation-Volume-5 (2016)</a></li>
+                        <li><span class="fa fa-angle-double-right" style="font-size:18px;color: #274969;"></span><a href="#">&nbsp;&nbsp;Automotive Testing – Volume-2 (2017)</a></li>
+                        <li><span class="fa fa-angle-double-right" style="font-size:18px;color: #274969;"></span><a href="#">&nbsp;&nbsp;Railways Testing -Volume-1 (2017)</a></li>
+                        <li><span class="fa fa-angle-double-right" style="font-size:18px;color: #274969;"></span><a href="#">&nbsp;&nbsp;Vibration & Shock Testing- Volume 3 (2017)</a></li> -->
+                    </ul>
+                </div>
+            </div>
+
+              <div class="col-md-6">
+                <div class="news-img pt-5" style="overflow: hidden!important;">
+                    <img src="media/newstest.png" style="height: 24rem;width: 90%;border-radius: 10px;" class="animated slideInRight">
+                </div>
+            </div>
+    </div>
+    
+</div>
+
+
+</div>
+</div>
+<div class="hp-ts-image-container">
+<div class="hp-ts-image-cropper">
+<img src="./demo_files/TrustandSafety_3.jpg" class="hp-ts-background-image">
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+    
+    
+
+<!-- end coding news and event -->
+
+<!-- start coding news and event -->
+<section class="section" style="margin-top: 4rem!important;background-color: #fff;">
+<div class="section__header">
+
+</div>
+
+<div class="section__content">
+<div>
+
+
+<div class="hp-ts-container" style="background: none;">
+<div class="section__header" style="z-index: 9;">
+<h2 style="font-size: 83px;">Events
+</h2>
+</div>
+<div class="hp-ts-content">
+<div class="hp-ts-header-container" style="padding: 0px;">
+<!-- <div class="hp-ts-eyebrow">#1 CHOICE FOR</div>
+ -->
+ <h4 style="font-size: 35px;color: #3d3834;">EVENTS</h4>
+<!-- <div class="hp-tab-subheader">With you every step of the way</div> -->
+<div class="hp-title-underline"></div>
+</div>
+<div class="hp-ts-card-container">
+	<div class="container-fluid" style="padding-bottom: 5rem;">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="news-content pt-5" style="overflow: hidden!important;">
+                     <a href="https://www.instrumentation-solutions.com/attended.php"><img src="media/atten.jpeg" style="height: 24rem;width: 100%;border-radius: 10px;" class="animated slideInRight"></a>
+                </div>
+                <div class="text-center mt-2" style="color: black;">
+                    	<a href="https://www.instrumentation-solutions.com/attended.php"><p>Attended</p></a>
+                    </div>
+
+            </div>
+
+              <div class="col-md-6">
+                <div class="news-img pt-5" style="overflow: hidden!important;">
+                    <a href="https://www.instrumentation-solutions.com/upcoming.php"><img src="media/upc.PNG" style="height: 24rem;width: 100%;border-radius: 10px;" class="animated slideInRight"></a>
+                </div>
+                <div class="text-center mt-2" style="color: black;">
+                    	<a href="https://www.instrumentation-solutions.com/upcoming.php"><p>Upcoming</p></a>
+                    </div>
+            </div>
+    </div>
+    
+</div>
+
+
+</div>
+</div>
+<div class="hp-ts-image-container">
+<div class="hp-ts-image-cropper">
+<img src="./demo_files/TrustandSafety_3.jpg" class="hp-ts-background-image">
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+    
+    
+
+<!-- end coding news and event -->
+
+
+
+
+<!-- start video section -->
+<section class="section" style="margin-top: 4rem!important;background-color: #f0f0f0!important;padding-bottom: 3rem;">
+<div class="section__header">
+
+</div>
+
+<div class="section__content">
+<div>
+
+
+<div class="hp-ts-container" style="background: none;">
+<div class="section__header" style="z-index: 9;">
+<h2 style="font-size: 83px;">Videos
+</h2>
+</div>
+<div class="hp-ts-content">
+<div class="hp-ts-header-container" style="padding: 0px;">
+<!-- <div class="hp-ts-eyebrow">#1 CHOICE FOR</div>
+ --><h4 style="font-size: 35px;color: #3d3834;">Videos</h4>
+ <div class="hp-title-underline"></div>
+</div> 
+                
+                
+<div class="hp-ts-card-container mt-3">
+  <div class="container-fluid">
+   <div class="container mt-5">
+            <div class="row">
+                                        <div class="col-md-4">
+                            <div class="text-center video-page-main mb-5" style="box-shadow: 0px 0px 7px 2px #274868;border:1px solid #274868;height: 20rem;">
+                                <a data-fancybox="video-gallery" href="media/video/424975036_551757665_2.mp4">
+                                    <video width="300" height="200" controls>
+                                      <source src="media/video/424975036_551757665_2.mp4?>" type="video/mp4">
+                                      <!-- <source src="movie.ogg" type="video/ogg"> -->
+                                     <!--  Your browser does not support the video tag. -->
+                                    </video>
+                                </a>
+                                <div class="text-center">
+                                    <p style="font-size: 1.3rem;font-weight: 600;color: #333;">Impact Hammer Tester</p>
+                                </div>
+                            </div>
+                        </div>
+                                        <div class="col-md-4">
+                            <div class="text-center video-page-main mb-5" style="box-shadow: 0px 0px 7px 2px #274868;border:1px solid #274868;height: 20rem;">
+                                <a data-fancybox="video-gallery" href="media/video/588620800_296846591_3 (1).mp4">
+                                    <video width="300" height="200" controls>
+                                      <source src="media/video/588620800_296846591_3 (1).mp4?>" type="video/mp4">
+                                      <!-- <source src="movie.ogg" type="video/ogg"> -->
+                                     <!--  Your browser does not support the video tag. -->
+                                    </video>
+                                </a>
+                                <div class="text-center">
+                                    <p style="font-size: 1.3rem;font-weight: 600;color: #333;">6 degree of freedom electro dynamic vibration test</p>
+                                </div>
+                            </div>
+                        </div>
+                                        <div class="col-md-4">
+                            <div class="text-center video-page-main mb-5" style="box-shadow: 0px 0px 7px 2px #274868;border:1px solid #274868;height: 20rem;">
+                                <a data-fancybox="video-gallery" href="media/video/521576211_512494503_KMS Technologies LEMI 424 HD.mp4">
+                                    <video width="300" height="200" controls>
+                                      <source src="media/video/521576211_512494503_KMS Technologies LEMI 424 HD.mp4?>" type="video/mp4">
+                                      <!-- <source src="movie.ogg" type="video/ogg"> -->
+                                     <!--  Your browser does not support the video tag. -->
+                                    </video>
+                                </a>
+                                <div class="text-center">
+                                    <p style="font-size: 1.3rem;font-weight: 600;color: #333;">KMS Technologies</p>
+                                </div>
+                            </div>
+                        </div>
+                            </div>
+        </div>
+            
+
+
+             <div class="hp-news-footer mt-5">
+               <a href="https://www.instrumentation-solutions.com/video.php" class="hp-btn-round hp-btn-primary">
+               View All
+               </a>
+            </div>
+          </div>
+</div>
+
+
+</div>
+</div>
+<div class="hp-ts-image-container">
+<div class="hp-ts-image-cropper">
+<img src="./demo_files/TrustandSafety_3.jpg" class="hp-ts-background-image">
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+
+
+
+<!-- end video section -->
+<div class="hp-contact-us" style="height: 661.578px;">
+<div class="hp-cu-content-container">
+<div class="hp-cu-header-container">
+<div class="hp-title">
+Contact Us
+<div class="hp-title-underline"></div>
+</div>
+</div>
+<div class="hp-cu-details-container">
+<link href="./demo_files/main.min.css" rel="stylesheet" type="text/css">
+<div class="hp-cu-details">
+<p>
+Please complete the form below and we will be happy to contact you with a response. Our typical response time for an online request is within 1-2 business days. For a faster response, please call us <br><br>
+<b>Contact:</b> +91-124-4929000
+</p>
+<div class="hp-cu-tel-numbers">
+<!-- <div class="hp-cu-number-line">
+Sales:
+<a class="hp-tel-number" href="tel:+91-99999XXXXX">+91-99999XXXXX</a>
+</div> -->
+<!-- <div class="hp-cu-number-line">
+Service:
+<a class="hp-tel-number" href="tel:+91-99999XXXXX">+91-99999XXXXX</a>
+</div> -->
+</div>
+<div class="hp-cu-sevice-request">
+<h4>SERVICE / PRODUCT REQUEST</h4>
+<p>
+For any queries, please fill out the contact form by clicking the button below.
+</p>
+</div>
+<div class="hp-btn-container">
+<a href="https://www.webera.com/en-in/service-and-support/contact-service" class="hp-btn-round hp-btn-purple" data-toggle="modal" data-target="#myModal">Contact Form</a>
+</div>
+</div>
+<!-- The Modal -->
+  <div class="modal fade" id="myModal">
+    <div class="modal-dialog modal-dialog-scrollable">
+      <div class="modal-content">
+      
+        <!-- Modal Header -->
+        <div class="modal-header">
+          <h4 class="modal-title">Enquiry Form</h4>
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+        </div>
+        
+        <!-- Modal body -->
+        <div class="modal-body">
+          
+            <form action="service_contact_form.php" method="post" data-form-title="CONTACT US">
+              <input type="hidden" data-form-email="true">
+              <div class="form-group">
+                <label for="name">Name*</label>
+                <input type="text" class="form-control" name="sname" required="required" id="name" data-form-field="Name">
+              </div>
+            
+              <div class="form-group">
+                <label for="phone">Phone Number*</label>
+                <input type="tel" class="form-control" name="sphone" id="phone" required="required" data-form-field="Phone">
+              </div>
+              <div class="form-group">
+                <label for="email">Email*</label>
+                <input type="email" class="form-control" name="semail" required="required" id="email" data-form-field="Email">
+              </div>
+              <div class="form-group">
+                <label for="service-enq">Product Enquiry / Service Enquiry*</label>
+                <input type="text" class="form-control" name="service-enq" id="service-enq" required="required" data-form-field="enquiryName">
+              </div>
+              <div class="form-group">
+                <label for="product">Specifications / Applications of the product</label>
+                <input type="text" class="form-control" name="sproduct" id="product" data-form-field="product">
+              </div>
+               <div class="form-group">
+                <label for="other-specification">Additional Information</label>
+
+                <textarea id="other-specification" type="text" name="sother-specification" class="form-control input-box rm-border" data-form-field="other-specification" style="background-color: #fff;border: solid 1px #cecece;"></textarea>
+              </div>
+              
+              <div>
+                <!-- <button type="submit" class="btn btn-lg" >Submit</button> -->
+                <input type="submit" name="submit" value="submit" style="background-color: #274868;color: #fff;font-size: 1.4rem;width: 100%;height: 38px;">
+              </div>
+            </form>
+  
+        </div>
+        
+        <!-- Modal footer -->
+        <div class="modal-footer">
+          <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+        </div>
+        
+      </div>
+    </div>
+  </div>
+<link href="./demo_files/main.min.css" rel="stylesheet" type="text/css">
+<div class="hp-cu-form">
+<form action="send_cont_message.php" class="hp-cu-input" id="lead-gen-form" method="post">
+<input id="scController" name="scController" type="hidden" value="HubspotForms"><input id="scAction" name="scAction" type="hidden" value="ContactUs">
+<input length="36" id="DataSourceId" name="DataSourceId" type="hidden" value="{D64E9199-9D0F-4797-8063-D967581E253D}"> <input type="hidden" name="IsLead" value="True">
+<input type="hidden" name="IsTrainingRegistration" value="False">
+<input type="hidden" name="AllowKnownUsersToEditTheirInterests" value="True">
+<input type="hidden" name="ThankYouPageUrl" value="/en-in/our-company/contact-us/thank-you">
+
+<div id="name" data-validation-group="next-name|submit">
+<label for="TxtNameAddress">Name<span class="required">*</span></label>
+<input id="name" name="name" placeholder="Name" required="required" type="name" value="">
+
+</div>
+<div id="contact" data-validation-group="next-email|submit">
+<label for="TxtEmailAddress">Contact<span class="required">*</span></label>
+<input id="contact_id" name="number" placeholder="Contact Number" required="required" type="number" value="">
+
+</div>
+<div id="email" data-validation-group="next-email|submit">
+<label for="TxtEmailAddress">Email address<span class="required">*</span></label>
+<input id="e-mail" name="username" placeholder="Email Address" required="required" type="email" value="">
+
+</div>
+<div class="field-section" id="message" data-validation-group="next-message|submit">
+<label for="TxtMessage">How can we help you?<span class=""></span></label>
+<textarea textmode="MultiLine" cols="20" form="lead-gen-form" id="message" maxlength="1900" name="message" rows="2"></textarea>
+
+</div>
+<div class="hp-btn-container">
+<div class="field-section field-recaptcha">
+<input type="hidden" id="recaptchaField" value="">
+<div class="g-recaptcha" data-sitekey="" data-theme="light" data-type="image" data-callback="recaptchaCallback"></div>
+<span id="recaptchaerr" class="validation-captcha"></span>
+</div>
+<div id="PnlNext">
+<input type="submit" name="submit" class="hp-btn-round hp-btn-primary text-light" value="submit" id="con-sub">
+<!-- <span class="validation hide checking-email">Checking to see if you are a returning visitor…</span> -->
+</div>
+</div>
+
+</form>
+</div>
+</div>
+</div>
+</div>
+<!--  -->
+<!-- <section class="section">
+
+<div class="section__content">
+<div>
+<div class="section__header">
+<h2>
+Section #3 Header
+</h2>
+</div>
+<p>
+The element is positioned according to the normal flow of the document, and then offset relative to its nearest scrolling ancestor and containing block (nearest block-level ancestor), including table-related elements, based on the values of top, right, bottom, and left. The offset does not affect the position of any other elements.
+</p>
+
+<p>
+This value always creates a new stacking context. Note that a sticky element "sticks" to its nearest ancestor that has a "scrolling mechanism" (created when overflow is hidden, scroll, auto, or overlay), even if that ancestor isn't the nearest actually scrolling ancestor. This effectively inhibits any "sticky" behavior (see the Github issue on W3C CSSWG).
+</p>
+</div>
+</div>
+</section> -->
+<!-- <section class="section">
+
+
+<div class="section__content">
+<div>
+<div class="section__header">
+<h2>
+Section #4 Header
+</h2>
+</div>
+
+<p>
+The element is positioned according to the normal flow of the document, and then offset relative to its nearest scrolling ancestor and containing block (nearest block-level ancestor), including table-related elements, based on the values of top, right, bottom, and left. The offset does not affect the position of any other elements.
+</p>
+
+<p>
+This value always creates a new stacking context. Note that a sticky element "sticks" to its nearest ancestor that has a "scrolling mechanism" (created when overflow is hidden, scroll, auto, or overlay), even if that ancestor isn't the nearest actually scrolling ancestor. This effectively inhibits any "sticky" behavior (see the Github issue on W3C CSSWG).
+</p>
+</div>
+</div>
+</section> -->
+
+
+<footer>
+                <div class="footer-container">
+                    <div class="footer-content pb-5">
+                        <div class="footer-left">
+                            <!-- <img class="footer-logo" src="./demo_files/logo.png" alt="webera Logo White" style="height: 70px; width: auto;" /> -->
+                            <div class="footer-column">
+                                <div class="footer-header">
+                                    Corporate Office
+                                </div>
+                                <div class="details">
+                                    <p>
+                                        <!-- <b>Billing Address</b> : <br /> -->
+                                        Complete Instrumentation Solutions Private Limited <br />
+Suite 512, Suncity Business Towers <br />
+Golf Course Road ,Sector-54,<br />
+                                        Gurgaon- 122002<br />
+                                        Haryana<br />
+                                        India<br />
+                                    </p>
+                                    
+                                    <p>Contact: <a class="phone-number" href="tel:+91-9999XXXXXX">+91-124-4929000</a></p>
+                                </div>
+                            </div>
+                            <!-- <div class="footer-column">
+                                <div class="footer-header">
+                                    HELPFUL LINKS
+                                </div>
+                                <ul class="links">
+                                    <li><a href="https://www.webera.com/en-in/products/testing-systems">Testing Systems</a></li>
+                                    <li><a href="https://www.webera.com/en-in/products/materials-testing-software">Software</a></li>
+                                    <li><a href="https://www.webera.com/en-in/products/testing-accessories">Accessories</a></li>
+                                    <li><a href="https://www.webera.com/en-in/products/testing-accessories/view-the-accessories-catalog">Catalog</a></li>
+                                    <li><a href="https://www.webera.com/en-in/our-company/careers">Careers</a></li>
+                                    <li><a href="https://www.webera.com/en-in/our-company/press-room/news-listing">News</a></li>
+                                    <li><a href="https://www.webera.com/en-in/testing-solutions">Testing Solutions</a></li>
+                                    <li><a href="https://www.webera.com/en-in/our-company/press-room/case-studies">Case Studies</a></li>
+                                    <li><a href="https://www.webera.com/en-in/our-company/press-room/webinars">Webinars</a></li>
+                                    <li><a href="https://www.webera.com/en-in/our-company/library/glossary">Glossary</a></li>
+                                    <li><a href="https://www.webera.com/en-in/our-company/library/literature">Library</a></li>
+                                    <li><a href="https://www.webera.com/en-in/our-company/press-room/events">Events</a></li>
+                                </ul>
+                            </div> 
+                            <div class="footer-column mobile-only">
+                                <div class="footer-header">Policies / Legal</div>
+                                <ul class="links">
+                                    <li><a href="https://www.webera.com/en-in/our-company/about-us/cookie-notice">Privacy and Cookies Policy</a></li>
+                                    <li><a href="https://www.webera.com/en-in/our-company/about-us/terms-of-use">Terms of Use</a></li>
+                                    <li><a href="https://www.webera.com/en-in/our-company/about-us/accessibility">Accessibility</a></li>
+                                    <li><a href="https://www.webera.com/en-in/our-company/about-us/export-control">Export Control</a></li>
+                                    <li><a href="https://www.webera.com/en-in/our-company/about-us/data-privacy-notice-gdpr">Data Notice GDPR</a></li>
+                                </ul>
+                            </div>-->
+
+                        
+                        <div class="footer-right" style="padding-left: 12rem;margin-bottom: 2rem;">
+                            <div class="text-center">
+                                    <h2 style="font-size: 1.6rem;color: #fff;font-family: sans-serif;font-weight: 600;">Our Clients</h2>
+                            </div>
+                                <span class="m-3"><a href="https://www.instrumentation-solutions.com/clients.php"><img class="mt-3 footer-client" src="media/client-new1.jpg" width="120" height="80"></a></span>
+                                <span class="m-3"><a href="https://www.instrumentation-solutions.com/clients.php"><img class="mt-3 footer-client" src="media/footer-logo1.png" width="120" height="80"></a></span>
+                                <span class="m-3"><a href="https://nexttechcareer.com/CIS/cis/clients.php"><img class="mt-3 footer-client" src="media/footer-logo2.png" width="120" height="80"></a></span>
+                                <!-- <span class="m-3"><a href="https://www.gailonline.com/"><img class="mt-3 footer-client" src="media/clientnew4.png" width="120" height="80"></a></span> -->
+                                <span class="m-3"><a href="https://www.instrumentation-solutions.com/clients.php"><img class="mt-3 footer-client" src="media/footer-logo4.png" width="120" height="80"></a></span>
+                                <span class="m-3"><a href="https://www.instrumentation-solutions.com/clients.php"><img class="mt-3 footer-client" src="media/footer-logo5.png" width="120" height="80"></a></span>
+                                <span class="m-3"><a href="https://www.instrumentation-solutions.com/clients.php"><img class="mt-3 footer-client" src="media/clientnew3.png" width="120" height="80"></a></span>
+                                <span class="m-3"><a href="https://www.instrumentation-solutions.com/clients.php"><img class="mt-3 footer-client" src="media/clientnew2.png" width="120" height="80"></a></span>
+                                <span class="m-3"><a href="https://www.instrumentation-solutions.com/clients.php"><img class="mt-3 footer-client" src="media/clientnew5.jfif" width="120" height="80"></a></span>
+                              <span class="m-3"><a href="https://www.instrumentation-solutions.com/clients.php"><img class="mt-3 footer-client" src="media/lea.png" width="120" height="80"></a></span>
+                              <span class="m-3"><a href="https://www.instrumentation-solutions.com/clients.php"><img class="mt-3 footer-client" src="media/iitb.png" width="120" height="80"></a></span>
+                           <!--  <div class="footer-header"></div> -->
+                            <!-- <div class="social-container">
+                                <a class="social-btn" href="https://www.facebook.com/517658721656468/">
+                                    <i class="social-icon fa fa-facebook"></i>
+                                </a>
+                                <a class="social-btn" href="https://instagram.com/cispl11?utm_medium=copy_link">
+                                    <i class="social-icon fa fa-instagram"></i>
+                                </a>
+                                <a class="social-btn" href="https://www.linkedin.com/mwlite/company/complete-instrumentation-solutions-private-limited">
+                                    <i class="social-icon fa fa-linkedin"></i>
+                                </a>
+                            </div> -->
+                        </div>
+                        </div>
+                    </div>
+                   <!--  <form action="https://www.webera.com/" method="post">
+                        <input id="scController" name="scController" type="hidden" value="SingupForNewsletter" /><input id="scAction" name="scAction" type="hidden" value="SignUp" />
+                        <div class="newsletter-container">
+                            <div class="newsletter-title">SIGN UP FOR OUR NEWSLETTER</div>
+                            <div class="input-container">
+                                <div class="input-title">EMAIL ADDRESS</div>
+                                <input type="email" name="emailaddress" placeholder="EMAIL ADDRESS" />
+                            </div>
+                            <button type="submit" class="submit-btn">Submit</button>
+                        </div>
+                    </form> -->
+                </div>
+                <div class="footer-bottom">
+                    <div class="footer-bottom-container">
+                        <div><div style="letter-spacing: 0.24px;">© All rights reserved.</div></div>
+                        <a href="#">cis.in</a>
+                    </div>
+                   <!--  <ul class="desktop-only">
+                        <li><a href="https://www.webera.com/en-in/our-company/about-us/cookie-notice">Privacy and Cookies Policy</a></li>
+                        <li><a href="https://www.webera.com/en-in/our-company/about-us/terms-of-use">Terms of Use</a></li>
+                        <li><a href="https://www.webera.com/en-in/our-company/about-us/accessibility">Accessibility</a></li>
+                        <li><a href="https://www.webera.com/en-in/our-company/about-us/export-control">Export Control</a></li>
+                        <li><a href="https://www.webera.com/en-in/our-company/about-us/data-privacy-notice-gdpr">Data Notice GDPR</a></li>
+                    </ul> -->
+                </div>
+            </footer>
+           <a href="https://api.whatsapp.com/send?phone=+918586055228&amp;text=Hello" class="float" target="_blank">
+              <i class="fa fa-whatsapp my-float"></i>
+            </a> 
+        </div>
+        <!-- <script src="./demo_files/jquery-1.11.0.min.js.download" type="text/javascript"></script> -->
+        <input clientidmode="Static" id="HfMarketingProjectId" name="HfMarketingProjectId" type="hidden" value="" />
+        <script type="text/javascript" src="./demo_files/jquery.cycle2.min.js.download"></script>
+        <script type="text/javascript" src="./demo_files/jquery.cycle2.carousel.min.js.download"></script>
+        <script type="text/javascript" src="./demo_files/jquery.cookie.js.download"></script>
+        <script type="text/javascript" src="./demo_files/base.js.download"></script>
+        <script type="text/javascript" src="./demo_files/webera.js.download"></script>
+        <script type="text/javascript" src="./demo_files/cookienotification.js.download"></script>
+        <script type="text/javascript" src="./demo_files/analytics.js(1).download"></script>
+        <script type="text/javascript" src="./demo_files/lightbox.min.js.download"></script>
+        <script type="text/javascript" src="./demo_files/interactive.js.download"></script>
+        <script type="text/javascript" src="./demo_files/main.bundle.js.download"></script>
+         <script type="text/javascript" src="js/header.js"></script>
+        <script defer="" src="./demo_files/beacon.min.js.download"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.9/slick.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js" ></script>
+        <script type="text/javascript">
+        /*jQuery(document).ready(function($) {
+            $('.slider-for').slick({
+               slidesToShow: 1,
+               slidesToScroll: 1,
+               fade: true,
+               asNavFor: '.slider-nav'
+            });
+            $('.slider-nav').slick({
+               slidesToShow: 3,
+               slidesToScroll: 1,
+               autoplay: true,
+                autoplaySpeed: 2000,
+               responsive: [
+                {
+                  breakpoint: 600,
+                  settings: {
+                    slidesToShow: 1,
+                    slidesToScroll: 1,
+                    infinite: true,
+                    arrows: true,
+                    dots: true
+                  }
+                }
+                ],
+               asNavFor: '.slider-for',
+               dots: false,
+               arrows: true,
+               focusOnSelect: true
+            }); 
+        });*/
+        $(document).ready(function() {
+ 
+  $("#owl-example").owlCarousel({
+      itemsDesktop : [1499,3],
+      itemsDesktopSmall : [1199,3],
+      itemsTablet : [899,2],
+      itemsMobile : [599,1],
+      navigation : true,
+      navigationText : ['<span class="fa-stack"><i class="fa fa-circle fa-stack-1x"></i><i class="fa fa-chevron-circle-left fa-stack-1x fa-inverse"></i></span>','<span class="fa-stack"><i class="fa fa-circle fa-stack-1x"></i><i class="fa fa-chevron-circle-right fa-stack-1x fa-inverse"></i></span>'],
+  });
+  
+});
+
+
+        </script>
+        <script>
+function goBack() {
+window.history.back();
+}
+</script>
+
+
+
+</body>
+</html>
