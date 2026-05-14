@@ -24,7 +24,30 @@ const contactForm = document.querySelector('.contact-form');
 if (contactForm) {
   contactForm.addEventListener('submit', (event) => {
     event.preventDefault();
-    alert('Thank you for reaching out. This form is part of the cloned frontend and needs backend integration to submit.');
+
+    const name = contactForm.querySelector('[name="name"]')?.value?.trim() || '';
+    const email = contactForm.querySelector('[name="email"]')?.value?.trim() || '';
+    const phone = contactForm.querySelector('[name="phone"]')?.value?.trim() || '';
+    const message = contactForm.querySelector('[name="message"]')?.value?.trim() || '';
+
+    // Self-contained submit via mailto (no backend required)
+    // Note: mailto submission depends on the user's email client.
+    const to = 'enquiries@instrumentation-solutions.com';
+    const subject = `CIS enquiry${name ? ` - ${name}` : ''}`;
+
+    const bodyLines = [
+      `Name: ${name || '-'}`,
+      `Email: ${email || '-'}`,
+      `Phone: ${phone || '-'}`,
+      `Message: ${message || '-'}`,
+    ];
+
+    const body = bodyLines.join('\n');
+
+    const mailtoUrl = `mailto:${encodeURIComponent(to)}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+
+    window.location.href = mailtoUrl;
     contactForm.reset();
   });
 }
+
