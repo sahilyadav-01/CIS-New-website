@@ -1,6 +1,6 @@
-# CIS Website Clone
+# CIS Website - New Look
 
-This workspace now contains a static clone of the CIS website from `instrumentation-solutions.com`.
+This workspace provides a new look for the CIS website (reference: `instrumentation-solutions.com`, live: https://rajan.instrumentation-solutions.com/).
 
 ## Included files
 
