@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Services | CIS</title>
-  <meta name="description" content="Explore CIS technical services including pavement testing, structural health monitoring, geophysical surveys, and railway testing services." />
+  <title>Gallery | CIS</title>
+  <meta name="description" content="View CIS project gallery, case studies, and client installations of instrumentation and testing systems." />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
@@ -12,6 +12,10 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
 </head>
 <body>
+  <a class="skip-link" href="#main-content">Skip to main content</a>
+  <a class="float" href="https://api.whatsapp.com/send?phone=+918586052255" target="_blank" rel="noreferrer" aria-label="Contact us on WhatsApp">
+    <i class="fa fa-whatsapp"></i>
+  </a>
   <div class="top-bar">
     <div class="container top-bar-inner">
       <div class="top-bar-text">enquiries@instrumentation-solutions.com</div>
@@ -27,8 +31,8 @@
   <header class="site-header">
     <div class="container header-inner">
       <a class="brand" href="index.html"><img src="assets/logo.png" alt="CIS logo" /></a>
-      <button class="menu-toggle" aria-label="Toggle navigation"><span></span><span></span><span></span></button>
-      <nav class="site-nav">
+      <button class="menu-toggle" aria-label="Toggle navigation menu" aria-expanded="false" aria-controls="main-nav"><span></span><span></span><span></span></button>
+      <nav class="site-nav" id="main-nav">
         <ul>
           <li><a href="index.html">Home</a></li>
           <li><a href="about.html">About Us</a></li>
@@ -38,57 +42,98 @@
           <li><a href="newsletters.html">Newsletters</a></li>
           <li><a href="attended.html">Attended</a></li>
           <li><a href="video.html">Videos</a></li>
+          <li><a href="gallery.html">Gallery</a></li>
           <li><a href="clients.html">Clients</a></li>
           <li><a href="contact.html">Contact Us</a></li>
         </ul>
       </nav>
     </div>
   </header>
-  <main>
+  <main id="main-content">
     <section class="section page-hero">
       <div class="container">
         <div class="page-banner">
-          <p class="eyebrow">Our Services</p>
-          <h2>Professional instrumentation and testing services for engineering projects.</h2>
-          <p>Our consulting and service teams deliver measurement, inspection, and evaluation for infrastructure, railways, geophysics, and industrial clients.</p>
+          <p class="eyebrow">Gallery</p>
+          <h2>Project showcase and client installations</h2>
+          <p>Explore case studies and installations of CIS instrumentation systems across various industries and applications.</p>
         </div>
       </div>
     </section>
     <section class="section">
       <div class="container">
         <div class="section-heading">
-          <p class="eyebrow">Service Expertise</p>
-          <h2>Comprehensive service support for engineering, research, and field deployment.</h2>
+          <p class="eyebrow">Featured Projects</p>
+          <h2>Real-world applications of CIS instrumentation</h2>
         </div>
-        <div class="card-grid">
-          <article class="card">
-<<<<<<< HEAD
-            <img src="assets/img.png" alt="Pavement Testing" />
-=======
->>>>>>> parent of f48901d (int)
-            <h3>Pavement Testing</h3>
-            <p>Non-destructive evaluation, core testing, and pavement condition assessment using advanced instrumentation.</p>
-            <a class="card-link" href="brochures.html">Download Brochure</a>
+        <div class="filter-container">
+          <button class="filter-btn active" data-filter="all">All Projects</button>
+          <button class="filter-btn" data-filter="pavement">Pavement Testing</button>
+          <button class="filter-btn" data-filter="structural">Structural Monitoring</button>
+          <button class="filter-btn" data-filter="geophysical">Geophysical</button>
+          <button class="filter-btn" data-filter="materials">Materials Testing</button>
+        </div>
+        <div class="gallery-grid" aria-label="Gallery items">
+          <article class="gallery-item" data-category="pavement">
+            <img src="assets/New%20folder/media/High%20Force%20Applications%20Universal%20Testing%20Machines.jpg" alt="Highway Pavement Testing Project" loading="lazy" />
+            <div class="gallery-overlay">
+              <h3>Highway Pavement Assessment</h3>
+              <p>Advanced pavement evaluation and structural analysis for national highway project</p>
+            </div>
           </article>
-          <article class="card">
-            <h3>Structural Health Monitoring</h3>
-            <p>Sensor deployment, long-term monitoring, and data-driven decision support for buildings and bridges.</p>
-            <a class="card-link" href="brochures.html">Download Brochure</a>
+          <article class="gallery-item" data-category="structural">
+            <img src="assets/New%20folder/media/UTM_Masthead.jpg" alt="Bridge Structural Monitoring" loading="lazy" />
+            <div class="gallery-overlay">
+              <h3>Bridge Health Monitoring</h3>
+              <p>Long-term structural health monitoring system for critical infrastructure</p>
+            </div>
           </article>
-          <article class="card">
-            <h3>Geophysical Services</h3>
-            <p>Subsurface imaging, borehole logging, and geotechnical investigation services for energy and infrastructure.</p>
-            <a class="card-link" href="brochures.html">Download Brochure</a>
+          <article class="gallery-item" data-category="geophysical">
+            <img src="assets/New%20folder/media/Low%20Force%20Applications%20Universal%20Testing%20Machines.jpg" alt="Geophysical Survey" loading="lazy" />
+            <div class="gallery-overlay">
+              <h3>Subsurface Imaging</h3>
+              <p>Ground penetrating radar survey for geotechnical investigation</p>
+            </div>
           </article>
-          <article class="card">
-            <h3>Railway Testing</h3>
-            <p>Track diagnostics, rail instrumentation, and dynamic monitoring for safe railway operations.</p>
-            <a class="card-link" href="brochures.html">Download Brochure</a>
+          <article class="gallery-item" data-category="materials">
+            <img src="assets/New%20folder/media/Multi-Station-Universal-Test-System-6800-Series.jpg" alt="Materials Testing Lab" loading="lazy" />
+            <div class="gallery-overlay">
+              <h3>Materials Testing Lab Setup</h3>
+              <p>Complete instrumentation for materials and composites testing</p>
+            </div>
+          </article>
+          <article class="gallery-item" data-category="pavement">
+            <img src="assets/product1.png" alt="Core Sample Analysis" loading="lazy" />
+            <div class="gallery-overlay">
+              <h3>Core Analysis Services</h3>
+              <p>Precision core testing for pavement condition assessment</p>
+            </div>
+          </article>
+          <article class="gallery-item" data-category="structural">
+            <img src="assets/product2.png" alt="Sensor Installation" loading="lazy" />
+            <div class="gallery-overlay">
+              <h3>Sensor Network Installation</h3>
+              <p>Deployment of IoT sensors for real-time monitoring</p>
+            </div>
+          </article>
+          <article class="gallery-item" data-category="materials">
+            <img src="assets/product3.jpg" alt="Vibration Testing" loading="lazy" />
+            <div class="gallery-overlay">
+              <h3>Vibration & Shock Testing</h3>
+              <p>Dynamic testing for automotive and aerospace components</p>
+            </div>
+          </article>
+          <article class="gallery-item" data-category="geophysical">
+            <img src="assets/product4.jpg" alt="Borehole Investigation" loading="lazy" />
+            <div class="gallery-overlay">
+              <h3>Borehole Logging</h3>
+              <p>Advanced geotechnical borehole investigation and logging</p>
+            </div>
           </article>
         </div>
       </div>
     </section>
   </main>
+
   <footer class="site-footer">
     <div class="container footer-inner">
       <div class="footer-section">
@@ -133,6 +178,7 @@
       <p>&copy; 2024 Complete Instrumentation Solutions Private Limited. All rights reserved.</p>
     </div>
   </footer>
+
   <script defer src="script.js"></script>
 </body>
 </html>

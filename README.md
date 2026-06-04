@@ -1,6 +1,6 @@
-# CIS Website — Premium UI Clone
+# CIS Website — Premium UI 
 
-A refreshed, premium-looking front-end clone of the CIS website (reference: `instrumentation-solutions.com`, live: https://rajan.instrumentation-solutions.com/).
+A refreshed, premium-looking front-end clone of the CIS website (reference: `instrumentation-solutions.com`, live: https://new.instrumentation-solutions.com/).
 
 > **What you get:** responsive layout, modern card/section styling, and a clean multi-page structure (hero, products, services, brochures, newsletters, events, videos, clients, and contact).
 
@@ -10,15 +10,15 @@ A refreshed, premium-looking front-end clone of the CIS website (reference: `ins
 
 - `index.html` — Homepage (hero + main sections)
 - `about.html` — Company overview and history
-- `product.html` — Product category page (brochure resources)
-- `service.html` — Service offerings + document links
+- `product.html` — Product category page (products overview)
+- `service.html` — Service offerings
 - `brochures.html` — Brochure listings (downloads)
 - `newsletters.html` — Newsletter publications
 - `attended.html` — Attended events / conference summaries
-- `upcoming.html` — Upcoming industry participation
 - `video.html` — Video overview page
+- `gallery.html` — Project/gallery showcase
 - `clients.html` — Client list/logos
-- `contact.html` — Contact section (form placeholder)
+- `contact.html` — Contact section (front-end submission)
 
 ### Shared assets
 - `styles.css` — Shared responsive + “premium” theme styling
@@ -56,7 +56,7 @@ Since this is a static front-end project:
 
 ## 🧩 Notes (Important)
 
-- **Contact form is a front-end placeholder** in this clone. Backend submission wiring is not included.
+- Contact form is front-end only. `script.js` submits via `mailto:` (no backend wiring required).
 - Some pages may reference external libraries (Bootstrap / Font Awesome / carousel/lightbox) via CDN.
 
 ---
@@ -72,8 +72,8 @@ Since this is a static front-end project:
 ├─ brochures.html
 ├─ newsletters.html
 ├─ attended.html
-├─ upcoming.html
 ├─ video.html
+├─ gallery.html
 ├─ clients.html
 ├─ contact.html
 ├─ styles.css

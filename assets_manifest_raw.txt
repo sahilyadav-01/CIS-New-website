@@ -1,0 +1,1319 @@
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\banner
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\client
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\lea.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\logo.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product1.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product10.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product11.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product2.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product3.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product4.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product5.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product6.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product7.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product8.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product9.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\video
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\banner\161496646_Screenshot 2023-04-19 152211.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\banner\192747605_ban1 (1).jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\banner\218089963_test.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\banner\291929635_aaa.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\banner\365470906_Screenshot 2022-02-08 131952.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\banner\440301111_test.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\banner\866994147_2102.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\banner\884891384_2.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\banner\961188812_test.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\banner\975094271_3.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\banner\998622738_download.jfif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\banner\error_log
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\banner\uqmvhesk.php
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\client\2.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\client\client-new1.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\client\clientnew2.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\client\clientnew3.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\client\clientnew4.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\client\clientnew5.jfif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\client\footer-logo.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\client\footer-logo1.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\client\footer-logo2.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\client\footer-logo3.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\client\footer-logo4.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\client\footer-logo5.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\client\footer-logo7.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\client\iitb.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\115447772_cmec logo.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\116383272_ashoka logo.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\116486742_ncpor logo 1.jfif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\119262401_30_1.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\136897652_redecon India logo.jfif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\138402882_moveit logo.jfif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\155409140_SA Infra logo.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\179270119_JCC logo.jfif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\190108644_afcons logo.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\196138684_GDR logo.jfif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\198346147_AECOM Logo.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\198936585_igcar logo.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\203719410_PRAMC logo.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\213484107_crri logo.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\229085880_c2.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\229969288_serc logo.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\236215662_mecl logo.jfif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\236458648_bloom logo.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\242086976_IITKharagpur Logo.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\248887255_GIF logo.jfif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\265026874_iddc logo.jfif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\265223354_IITR_new_logo_black.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\267589081_7.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\268646217_IMG_20150119_103837077.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\275952208_c4.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\296550360_raynas logo.jfif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\297250296_iitkanpur logo.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\300719509_sai systra logo.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\311495633_Screenshot 2023-04-18 125953.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\321342231_30_4.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\329951841_GDR logo.jfif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\338753358_download.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\341464999_mission-vision.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\348882617_gail logo 2.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\353392132_ncc logo.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\353478321_sowil logo.jfif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\356057870_wuille.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\357850338_PWD ROORKEE.jfif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\372260002_ltgrouplogo.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\383098261_iitp logo.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\384301468_ITL Ltd..png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\395918529_WhatsApp Image 2022-04-07 at 10.51.49 AMmmmmmm.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\398681079_mspark logo.jfif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\400951893_untitled-design-92.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\404256541_Capturejuk1.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\405620445_CPRI-13-10-17.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\416378462_nio.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\419412987_Lasa_Supergenerics_Limited_ICrqlvT_wzGIIRX.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\430634652_ncpor logo.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\441506606_gail logo 2.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\442541813_pk engineers logo.jfif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\443858462_100.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\445693190_Indian_Institute_of_Technology_Delhi_Logo.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\450633749_Indian_Institute_of_Technology_Delhi_Logo.svg.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\465825565_Artboard24-100-min.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\474264187_100.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\477742340_first_diploama.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\488896176_mahamarg logo.jfif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\494732386_GAIL LOGO.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\495329646_iitkk.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\506955425_8oct.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\518131511_dae logo.jfif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\531368746_iit mandi logo.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\533497647_VSSC, ISRO.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\540898940_c1.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\546390732_de_3.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\550099592_mit pune logo.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\550618057_8oct.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\553668652_civil tech logo.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\569784816_saksham33.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\573095495_isro-logo.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\596301544_downloadBT.jfif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\608039773_Anna-University-Logo.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\611318553_iitpatna.jfif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\617327885_GDR logo.jfif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\624295801_Structural_Engineering_Research_Centre_Logo.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\626280968_GAIL LOGO.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\627292856_WhatsApp Image 2022-04-07 at 10.51.49 AM.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\637809098_GFF gun field factory logo.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\640793008_OFM logo.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\645783883_kship logo.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\646296057_National_Institute_of_Oceanography_logo.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\646329643_ISRO-to-set-up.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\648162614_bdl logo.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\666038515_nitraipur logo.jfif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\698651947_MSV Logo.jfif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\704830731_g-eng logo.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\707633899_download (1).png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\710351786_img_4.1-min.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\710763317_8oct.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\712807853_pic-min-min.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\719339926_nio logo.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\724866665_barc123.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\725683087_downloadu8.jfif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\739302138_nth kolkata.jfif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\752616398_Indian_Institute_of_Technology_Delhi_Logo.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\762072750_barc logo.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\764731202_lea logo.jfif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\766445908_IISc Logo.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\768306998_INS.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\776889790_iit delhi logo.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\784499849_3.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\786405141_pk engineers logo.jfif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\787582424_downloadbth.jfif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\788601783_cusat logo.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\796826621_ltgrouplogo.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\803445087_CSIR-Logo.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\803873660_satra logo.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\805955137_igcar logo.jfif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\813422882_smec logo.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\822230383_1.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\822265600_aarvee associates logo.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\829565818_cpri logo.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\831688325_crri logo.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\833785696_ban1 (1).jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\836153134_INFRA SUPPORT LOGO.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\839690433_anna logo.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\841749309_rajakesari logo.jfif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\846370512_b-min-min.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\848296241_WhatsApp Image 2022-04-07 at 10.51.49 AM.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\852500676_LNM logo.jfif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\853160495_ntpc logo.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\864781225_gst9.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\879372622_barc logo.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\882464649_logo1-min.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\886347442_gail logo 2.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\894932501_iit-madras-logo.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\905014075_chaitanya logo.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\919577150_IITroorkee logo.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\920298879_segmental logo.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\922186191_30_1.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\923378459_K&J LOGO.jfif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\924863106_WADIA Logo.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\925453551_bits pilani logo.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\926088950_RT CLARK LOGO.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\929871522_mecl.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\931058229_reliance logo.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\941375365_civil tech logo.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\943799681_ncpor logo.jfif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\961878962_8oct.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\964879906_ins2.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\973443621_crri logo.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\975940118_IITG logo.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\979395795_NTH logo.jfif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\984051948_c3.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\991594320_nitsrinagar logo.jfif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\992029388_ICT LOGO.jfif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\998470202_hppwd logo.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\gallery\iit-delhi-recruitment.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder\ab1.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder\Aerospace_IndustrySolution_1.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder\Automotive_IndustrySolution_2.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder\bg-1.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder\Bio_IndustrySolution_1.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder\Calibration_Service.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder\Charpy-Impact-Testing-Webinar-Home-Page-News-Item.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder\Component-Test-Plate-News-Item.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder\ConnectedSupport_Service.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder\DarkTealHeroShape.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder\Electric-Vehicle-Battery-Testing-White-Paper.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder\Electronic_IndustrySolution_1.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder\IMG_9552.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder\Instron-3400-Series-Test-System.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder\Instron-5980-Testing-System.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder\instronheaderlogo.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder\logo.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder\LOLIWARE-407x300.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder\Materials_IndustrySolution_1.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder\media
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder\Muquans_AQG_Key_Operational_Features_Video.mp4
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder\OurPromise_Service.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder\PreventativeMaintenence_Service.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder\ProductLifeCycle_Service.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder\QC-Testing-Tips-Webinar-Home-Page-News-Item.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder\RepairandRefurbishment_Service_2.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder\s1.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder\Short -clip.mp4
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder\Tales-from-the-Apps-Lab-2.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder\Traceability-in-Bluehill-Universal.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder\trainer-4.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder\Training_Service.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder\TrustandSafety_3.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder\media\.f82ccbb9.ico
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder\media\.htaccess
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder\media\1.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder\media\220-SM776674.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder\media\3.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder\media\4.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder\media\5.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder\media\6.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder\media\Apps-Pdf-icon.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder\media\atten.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder\media\attended2.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder\media\bro.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder\media\bro1.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder\media\broch-new.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder\media\error_log
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder\media\High Force Applications Universal Testing Machines.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder\media\indeex.php
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder\media\index.php
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder\media\lea.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder\media\Low Force Applications Universal Testing Machines.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder\media\Milk Products.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder\media\Multi-Station-Universal-Test-System-6800-Series.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder\media\news-events.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder\media\newsbanner.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder\media\newsnew.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder\media\newstest.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder\media\radio.php
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder\media\radio.txt
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder\media\upc.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder\media\upcoming.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder\media\UTM_Masthead.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder\media\videobanner.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\New folder\media\videobanner1.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\118725539_607209128_870721292_171463620_Advanced Geotechnical Testing (1).pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\141113849_262286537_741844298_Advanced Geophysical Instruments-Volume-3 .pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\161284120_materials-testing.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\170098969_News Letter- Pavement Instrumentation.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\171463620_Advanced Geotechnical Testing-Volume-1 (2016).pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\173308689_PavementMoni. -Newsletter-2023.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\195929315_Mapping of Unknown Foundations.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\204330695_Structural Health Monitoring.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\207690305_6th day pdf.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\221071528_9th day Home Works.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\233145137_385241863_730423704_Vibration & Shock Testing (1).pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\234097933_794269751_279089338_Non Destructive Material Testing (1).pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\238232435_KMS Technologies LEMI_424_HD.mp4
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\243760772_KMS Technologies LEMI_424_HD.mp4
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\249809455_794528877_Automotive Testing .pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\256329860_Vibration & Shock Testing Newsletter.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\262286537_741844298_Advanced Geophysical Instruments-Volume-3 .pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\270324353_774113677_794528877_Automotive Testing .pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\273611096_385241863_730423704_Vibration & Shock Testing (1).pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\279089338_Non Destructive Material Testing-Volume-4 (2016).pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\289211574_KMS Technologies LEMI_424_HD.mp4
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\324731810_Asphalt Catalogue 2018 (2).pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\346540975_801439760_479071429_645135950_631003793_Railways Testing  (1) (2).pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\353128368_880853561_431572505_548174459_Advanced Material Testing (1).pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\385241863_730423704_Vibration & Shock Testing (1).pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\387880104_2.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\403437250_981163194_262286537_741844298_Advanced Geophysical Instruments-Volume-3.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\427120230_794269751_279089338_Non Destructive Material Testing (1).pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\431080885_772069366_480032390_837321509_Structural Health Evaluation (1).pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\431572505_548174459_Advanced Material Testing (1).pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\432076391_385241863_730423704_Vibration & Shock Testing (1).pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\464635673_234097933_794269751_279089338_Non Destructive Material Testing (1).pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\479071429_645135950_631003793_Railways Testing  (1).pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\480032390_837321509_Structural Health Evaluation (1).pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\516019119_100.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\525926638_262286537_741844298_Advanced Geophysical Instruments-Volume-3 .pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\540091628_Testimonials from the Clients on ROMDAS CLINIC.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\543867601_234097933_794269751_279089338_Non Destructive Material Testing (1).pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\548174459_Advanced Material Testing-Volume-2 (2016).pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\553487132_2.mp4
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\554501132_3.mp4
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\557218257_materials-testing.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\569100443_Structural Health Monitoring.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\603035727_WhatsApp Image 2022-02-09 at 5.25.28 PM.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\607209128_870721292_171463620_Advanced Geotechnical Testing (1).pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\631003793_Railways Testing -Volume-1 (2017).pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\645135950_631003793_Railways Testing  (1).pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\647425459_Structural Health Monitoring.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\684580110_262286537_741844298_Advanced Geophysical Instruments-Volume-3 .pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\696504541_brajendra letter pad.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\696828225_233145137_385241863_730423704_Vibration & Shock Testing (1) (1).pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\697203997_100 News Letter Pavement 100.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\69b9262f.php
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\713475023_772069366_480032390_837321509_Structural Health Evaluation (1).pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\713518693_123A0185.JPG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\730423704_Vibration & Shock Testing- Volume 3 (2017).pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\741844298_Advanced Geophysical Instruments-Volume-3 (2016).pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\745183718_123324353_774113677_794528877_Automotive Testing.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\758337844_ROMDAS Laser profilometer.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\758756236_233145137_385241863_730423704_Vibration & Shock Testing (1).pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\772069366_480032390_837321509_Structural Health Evaluation (1).pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\772856043_Mapping of unknown Foundations.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\774113677_794528877_Automotive Testing .pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\794269751_279089338_Non Destructive Material Testing (1).pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\794528877_Automotive Testing - Volume-2 (2017).pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\801439760_479071429_645135950_631003793_Railways Testing  (1) (2).pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\815015268_12th Day Home work pdf.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\837321509_Structural Health Evaluation-Volume-5 (2016).pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\839455073_262286537_741844298_Advanced Geophysical Instruments-Volume-3 .pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\842582094_KMS Technologies LEMI_424_HD.mp4
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\844093947_262286537_741844298_Advanced Geophysical Instruments-Volume-3 .pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\864336811_3.mp4
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\870721292_171463620_Advanced Geotechnical Testing (1).pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\878183523_Structural Testing & Pavement Condition Survey.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\880214579_233145137_385241863_730423704_Vibration & Shock Testing (1) (1).pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\880853561_431572505_548174459_Advanced Material Testing (1).pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\885192356_233145137_385241863_730423704_Vibration & Shock Testing (1) (2).pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\898637365_Electrodynaic Actuators Newsletter.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\906486237_123324353_774113677_794528877_Automotive Testing.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\952394088_KMS Technologies LEMI_424_HD.mp4
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\952533027_KMS Technologies LEMI_424_HD.mp4
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\958856850_100 News Letter Pavement 100.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\975504467_3.mp4
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\979935047_KMS Technologies LEMI_424_HD.mp4
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\981163194_262286537_741844298_Advanced Geophysical Instruments-Volume-3 .pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\996261951_materials-testing.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\998128485_Vibration & Shock Testing Newsletter.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\load.php
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\news\nbmlfhdz.php
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\111517528_WhatsApp Image 2022-08-04 at 4.44.50 PM (1).jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\113492952_Picture21.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\114571405_t999.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\115414679_0cc1b39b-2712-448d-869c-8f7229105246.JPG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\117298541_3.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\117627840_DSC03470.JPG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\118393440_download.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\119255294_download.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\122361899_4910_Rockbolt__50410.1333548222.1020.660-thegem-product-single.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\123069757_logo1-min.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\123172110_DSC01625.JPG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\123605652_geophysical_services.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\123994341_1635958723417 (1).jfif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\127460740_1635479715055.jfif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\127568406_1641209187426.jfif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\127897379_1635479714744.jfif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\129262758_8oct.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\129714796_ge13.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\129874754_Artboard24-100-min.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\130680240_ae29.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\130971829_Picture42.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\131151944_618118837_earthquake-research (1).pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\131650824_download.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\131787114_IMG_2906.JPG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\137800454_Q213.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\138217404_`````5.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\138533907_221271719_automotive-aerospace-engineering2.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\140021030_ge24.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\140143910_a7.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\140592085_Impact tester.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\141505064_Soil-Compression-Gage-thegem-product-single.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\142468403_r1.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\142528569_acoustic Emission system.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\142622233_IMG_1987.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\143050135_m2.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\143059768_au2.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\145017995_Picture15.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\146143384_irc2022_rule_cover-300x428.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\147129238_WhatsApp Image 2022-04-07 at 10.51.49 AM.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\147720754_CaptureQWERT.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\148728054_41.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\149645769_sh8.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\150011204_DSC01631.JPG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\150861212_DSC03466.JPG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\151058196_ae22.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\151136199_IMG_20150121_131650249_HDR.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\152014388_WhatsApp Image 2022-08-04 at 11.06.19 AM (1).jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\152722275_Hydraulic_Vibration_Shaker (2).mp4
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\153046006_Bendig Beam machine.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\154949198_4LF4.phtml
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\155514140_WhatsApp Image 2022-10-08 at 5.11.19 PM (2).jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\156518896_w5.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\157815197_A1521-Accelerometer-Biaxial-final-thegem-product-single.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\160207284_images goes here.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\160445103_structural-health-monitoring.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\164487241_received_1580049715358024.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\165078905_unmanned1.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\166491937_ge11.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\166539580_PE12.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\166900591_````11.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\169885627_IMG_20150119_104403707.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\170100928_rd3.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\172307458_20210913_163209.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\174435600_1641209187078.jfif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\176299573_pavement 1.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\178053562_category1.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\178321262_7.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\178690329_g678.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\180290142_pe4.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\183083308_igc4.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\183271304_Pics-4.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\185790676_WP_20150529_001.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\185928042_71bZQijafzL._SL1500_.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\188817936_sh1.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\189172683_materials-testing.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\190073609_Hydraulic_Vibration_Shaker (1).mp4
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\190666899_WhatsApp Image 2022-08-04 at 4.32.38 PM.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\191678088_aqt6.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\195160260_STS-CDL-01_01-thegem-product-single.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\197136250_IMG_2901.JPG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\198315522_automotive and aero.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\199087451_igc5.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\199999974_IMG_20151220_182958981.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\200015464_re.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\200385178_a4.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\200912593_w7.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\203036418_Picture14.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\203460041_ta2.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\203598535_au9.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\204813172_r9.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\207016800_download.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\207299228_img_2-min.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\208688254_sh6.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\210018615_img_4.1-min.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\210564497_Vibration-Shock-Testing.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\211719841_s2.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\211922129_AST350-VAST350-Asphalt-Strain-Transducer-thegem-product-single.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\211999044_220-MZ906325.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\212008728_Picture40.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\212972132_Picture31.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\213606407_t67.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\215386193_WhatsApp Image 2022-04-07 at 10.51.49 AM.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\216853507_UAV.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\217777665_mb.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\217994435_download.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\218006898_vt2.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\218125672_s1.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\218995300_igc1.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\219715014_1-removebg-preview (1).png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\220896681_`````4.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\221271719_automotive-aerospace-engineering2.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\222826844_DSC01262.JPG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\224277246_IMG_20161217_110214100.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\224482169_railll.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\224883272_download.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\225462453_Brajendra_May_2016.PDF
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\225758606_Picture6.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\231437971_Hydraulic_Vibration_Shaker (2).mp4
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\231567230_kmnj.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\233738371_download.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\233885711_img_2-min.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\234050757_GEOPHYSICAL EXPLORATION.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\235184555_IMG_20181122_160347.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\235283940_851864523_wille geo.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\235583879_download (1).jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\237052635_485105007_unmanned-aerial-vehicles.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\237578991_e3.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\237847490_ge10.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\238001311_Captured45.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\238102130_vicat apparatus.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\240648470_Picture4.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\241007652_Picture30.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\241155493_vt3.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\241254732_materials-testing.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\241726371_Picture7.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\242051274_category1.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\243507780_CaptureFI.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\244837264_IMG_20181122_160449.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\245041479_a1.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\246282456_Title.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\247919954_Picture5.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\248016796_mahima.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\250108903_glaciology.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\252687899_DSC01335.JPG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\253123257_geodynamic studies.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\253658070_IMG_1987.JPG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\256533766_Picture5.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\256773431_Picture29.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\257102278_rd1.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\257412606_r4.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\257519783_mahima.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\258870626_RESEARCH & DEVELOPMENT.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\259207560_963776585_glaciology (1).pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\259554382_WhatsApp Image 2022-10-11 at 6.31.01 AM (1).jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\259870011_download.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\262316893_demo image.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\263184861_CIS_PAVEMENT_EVALUATION_SERVICES.PDF
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\263347587_220-MZ906325.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\264112756_R1.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\264796585_DSC01253.JPG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\265118211_IMG_2930.JPG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\266197555_Picture1.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\266617164_download.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\267385472_m3.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\268223093_u7.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\268582880_q9.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\271580180_au6.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\274337632_ge18.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\274705700_1-removebg-preview (1).png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\275018863_copression testing machine.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\275457093_WhatsApp Image 2022-01-24 at 10.27.48 AM.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\276351582_Picture23.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\276483297_734666690_GE4.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\277035496_IMG_2903.JPG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\277359536_download.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\278027850_Picture4.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\278128399_Autoblaine-HERML.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\278601728_1641209187426.jfif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\278817885_at7.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\279518177_mahima.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\279565683_Structural Health Monitoring and Evaluation.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\279922538_green-energy.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\280923701_au4.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\281197944_IMG_20181122_181238.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\281791578_MICROZONATION STUDIES.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\284110546_Picture28.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\284318824_logo1-min.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\284641022_pavement-testing.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\284802044_RAIL.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\285063545_POIUY.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\285453465_ge7.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\286959833_ta9.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\287039585_images goes here.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\288682230_jyuo.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\289423452_m4.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\289646555_Pics-5.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\290846212_Q213.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\292053951_w4.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\292619670_Picture27.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\292670278_233145137_385241863_730423704_Vibration & Shock Testing (1) (1).pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\293560163_WhatsApp Image 2022-08-04 at 4.44.47 PM (1).jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\296787595_download.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\296898370_WhatsApp Image 2022-11-18 at 7.30.39 PM.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\296957071_vt6.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\299728252_Solitary_Oil_Rig_In_The_Arabian_Sea.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\306039737_WhatsApp Image 2022-07-12 at 11.40.19 PM.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\307766298_Picture43.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\309584652_IMG_2916.JPG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\311572767_Artboard24-100-min.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\312497172_PE15.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\313576903_1.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\314107268_a5.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\314577478_aqt8.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\316007222_download.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\319168228_PE7.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\319291013_mission-vision.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\319755155_earthquake research.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\320662411_traffic-infratech-expo.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\321033082_DSC01253.JPG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\321291630_772069366_480032390_837321509_Structural Health Evaluation (1).pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\321661026_``````9.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\323891923_Captureqw.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\325059002_Biaxial material test system.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\325731005_500006295_vibration and shock testing.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\326003328_Picture10.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\326510804_R2.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\327141372_1641209187078.jfif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\327453006_er1.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\327790917_479071429_645135950_631003793_Railways Testing  (1) (1).pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\327840571_q5.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\329174589_sh4.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\330834258_download.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\331723801_220-MZ906325.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\331803686_Picture7.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\331963744_Company-2.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\333704302_g6.jpg.crdownload
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\335288760_WhatsApp Image 2022-11-18 at 7.30.05 PM - Copy.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\335755242_MATERIALS TESTING.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\335782864_IMG_20150121_131543488_HDR.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\337813380_J89.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\338995214_CaptureSDFGGGGG.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\339121286_w6.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\339162205_STS4-4-terminal-node-thegem-product-single.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\339953680_1635958723417 (1).jfif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\345149804_Picture35.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\346030839_q4.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\348938960_1659594701439.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\349639727_Picture39.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\349907876_``````7.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\350394216_download.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\350678818_er6.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\350824143_pe5.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\351972919_IMG_2921.JPG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\354445005_IMG_2930.JPG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\356229809_Solitary_Oil_Rig_In_The_Arabian_Sea.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\356936337_WhatsApp Image 2022-04-08 at 12.41.47 PM.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\357457976_unmanned aerial vehicles.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\358396480_WhatsApp Image 2022-08-04 at 11.06.20 AM (1).jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\359543167_PE9.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\360213589_Picture5.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\360668170_ge6.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\362362598_sh2.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\362978825_au7.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\363178481_q8.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\363631459_Pavement Testing Services- Rev.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\365418386_ae26.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\366006799_unmanned1.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\366928925_ae27.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\367080303_a10.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\367848449_Picture32.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\368549225_vt6.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\369746298_Cinnomon.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\369784127_Picture9.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\370162646_f5.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\371340806_IMG_20150119_104004178.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\371436403_DSC01633.JPG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\372445718_1635583320392.jfif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\372748354_a8.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\372783688_images (2).jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\372813347_ta8.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\373384059_microzonation-studies.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\373998898_io.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\376825287_aqt1.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\376880175_STS4-4-IW3_08-thegem-product-single.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\377946676_123A0185.JPG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\379908940_888298941_Picture2.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\380947763_download.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\382247085_Picture14.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\385093672_fa05de0c-92ca-4203-ba75-494e75e44b34.JPG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\385151782_IMG_2923.JPG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\385528945_uy7.jfif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\386659230_ge25.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\388522549_koi.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\390281648_Picture30.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\391870770_india.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\392486096_1.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\393079277_pavement evaluation.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\394192842_ioo.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\395409140_trib4.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\395646513_SCALE NEXT ACADMY LOGO.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\396559224_Bottom-Mount-Iso_text.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\396971394_geodynamic-studies.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\398763271_1635583320392.jfif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\399068991_Picture16.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\399638744_IMG_2921.JPG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\399723256_logo1-min.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\401024760_ge12.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\404037613_img_2-min.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\404449996_319755155_earthquake research.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\407394101_CEST350-white-background-scaled-thegem-product-single.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\408850155_material testing.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\410705573_Picture8.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\410709712_IMG_20150121_131730959_HDR.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\411100560_WhatsApp Image 2022-04-07 at 10.51.49 AM.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\411959359_ta6.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\413818498_`````14.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\414323201_traffic-infratech-expo.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\415436557_KUAB.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\418180843_il.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\419961265_Rohanvaccination.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\420605462_ge20.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\422565798_TD592-1a-thegem-product-single.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\424239810_5.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\424770346_FullSizeRender (1).jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\425112804_1635479715040.jfif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\426289867_au6.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\427063845_dfgh.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\427983670_vt5.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\428106377_P_20150528_141648.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\428767324_PE14.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\428964070_ae27.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\429368531_IMG-20240425-WA0023.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\429404836_G2.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\431323653_DSC00069.JPG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\431333592_trib1.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\431529484_WhatsApp Image 2022-04-07 at 10.51.49 AM.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\433662484_Blank 6 Grids Collage.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\433862623_ta7.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\434196903_WhatsApp Image 2022-11-18 at 8.13.08 PM.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\434993096_Picture1.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\435413190_download (2).jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\435436561_download.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\435556104_VIBRATION & SHOCK TEASTING.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\435642345_WhatsApp Image 2022-10-01 at 12.44.46 PM (1).jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\435890779_images (4).jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\436074464_pe1.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\436278456_CIS_PAVEMENT_EVALUATION_SERVICES.PDF
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\436289222_railways.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\437452106_ta4.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\438707899_m5.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\439149415_Picture8.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\439251666_irc2.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\439286229_30_4.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\439473073_hydrostatic Pressure Tester.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\439717351_Picture5.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\441555230_img1.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\441589949_w1.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\441928785_Picture41.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\443209737_1635479715040.jfif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\447795546_1641209187118.jfif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\447870497_vt4.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\447975051_Picture18.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\448355946_71bZQijafzL._SL1500_.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\448528992_1.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\448548841_e5.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\450031387_DSC03487.JPG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\450594468_Picture33.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\450978385_Picture39.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\452355353_WhatsApp Image 2022-11-18 at 7.32.43 PM (2).jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\453682463_q7.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\454963333_1.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\455599298_Picture7.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\456109621_1-removebg-preview (1).png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\458622408_category1.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\459001187_M1.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\463234336_1641209187118.jfif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\463260460_DSC00081.JPG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\465571080_`````6.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\466070249_ae25.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\467042416_images goes here.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\467195819_LVDT_web02-e1552497548670-thegem-product-single.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\469278361_Artboard24-100-min.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\470485376_71bZQijafzL._SL1500_.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\471460847_G1.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\474572211_Picture1.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\475217864_rnd.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\475374292_Universal Testing Machine (ElectromechanicalServo Hydraulic) (StaticDynamic).jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\476837014_download.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\477270330_v1.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\478642235_Picture4.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\478716358_479071429_645135950_631003793_Railways Testing  (1).pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\480632408_Picture35.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\481104350_at4.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\481109098_R3.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\482371617_952911411_research-and-development.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\485105007_unmanned-aerial-vehicles.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\486232444_1.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\486329617_sh7.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\488228788_WhatsApp Image 2022-02-08 at 9.55.29 AM (1).jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\489259384_WhatsApp Image 2022-11-18 at 7.30.04 PM.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\490720360_a2.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\491076ca.php
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\491094602_Picture27.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\491217873_at5.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\492464474_DSC01676.JPG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\492538020_1641209187118.jfif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\492733077_874494069_structural-health-evaluation.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\495679465_geophysical-exploration.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\496966793_20210913_163209.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\500006295_vibration and shock testing.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\503388122_ultra thikness gauge.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\504082626_`````12.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\504918727_ge1.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\508094008_Picture31.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\508400191_download.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\510122221_r7.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\510289273_Amplified-Completion-module02_cropped-thegem-product-single.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\512092769_Dynamic hellow cylinder Apparatus.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\516626818_pe6.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\516639703_Picture11.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\516991989_DSC03484.JPG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\517149366_IMG-20240509-WA0012.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\517765736_Picture12.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\517808945_Hydraulic_Vibration_Shaker (1).mp4
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\519267938_w3.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\520356057_Picture2.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\523183868_Tribometer.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\523982898_happyphoto.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\526893813_e7.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\529990952_Picture16.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\530160046_wert.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\531087029_Picture38.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\531154066_r8.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\531492273_ChatGPT Image new.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\532424538_category1.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\533328401_logo1-min.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\534965789_Picture7.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\535241530_w9.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\536070250_IRTY.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\536082295_Corrosion Ftigue test System.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\536598610_r6.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\537266260_automotive and aero.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\537430922_630854908_structural testing newsletter (1).pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\537566947_at8.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\538008901_8oct.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\538200873_20210913_165034.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\538740490_grt1.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\539117582_Picture29.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\539640564_WhatsApp Image 2022-10-10 at 9.05.34 AM.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\541788288_Picture47.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\544042766_structural health monitoring.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\544827885_WhatsApp Image 2022-04-07 at 10.51.49 AM.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\545181867_220-MZ906325.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\546600284_hy6.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\547886794_Temperature-gage-BDI-thegem-product-single.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\547886942_1635479714777.jfif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\549050504_download.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\549639034_IMG_20150119_103959447.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\550251634_uytt.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\551543239_ServoHydraulic Close loop compression testing machine.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\552143108_Picture15.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\553377707_research.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\555180539_images goes here.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\557016289_WhatsApp Image 2022-10-10 at 9.05.34 AM.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\557340251_download.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\560244521_IMG_20150119_103837077.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\560444473_aqt7.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\561495431_Picture18.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\563818706_svj4.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\565112624_537266260_automotive and aero.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\565202378_pe2.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\566839201_pooooooo.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\567565532_images goes here.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\567966931_756375684_railways.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\568196262_grt2.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\568624512_rd2.gif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\568957237_automotive & aerospace engineering.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\570657787_1637553336461.jfif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\570850479_Picture43.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\571354313_images goes here.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\571873471_ta1.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\573095401_210564497_Vibration-Shock-Testing.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\573518872_BA2512-ABa_02-thegem-product-single.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\575054891_WhatsApp Image 2022-08-04 at 4.44.47 PM (4).jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\575303377_Resonant column Test Apparatus.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\575369823_glaciology.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\575415150_main 15.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\575611149_PE8.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\577620130_IRC-logoFinal.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\578320833_ptt.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\579596588_w23.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\579923214_Picture46.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\580607893_au5.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\580657692_P_20150528_141648.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\581441853_earth.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\582088128_Solitary_Oil_Rig_In_The_Arabian_Sea.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\582635250_FWD Vehicle mounted.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\586109858_download.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\587374093_DSC01680.JPG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\588430284_geodynamic-studies.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\588993440_Geophysical services - CIS.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\589282258_IMG_20150121_131550202_HDR.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\590960894_Pics-3.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\591808992_download.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\593257777_e2.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\593990878_Website-1_page-0001.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\594455464_trib3.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\594677800_879269469_Picture200.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\595941360_634208242_436278456_CIS_PAVEMENT_EVALUATION_SERVICESooo.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\595981459_structural.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\598416207_DSC00080.JPG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\598601172_Captured45.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\599305688_qwe.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\599778539_IMG_20150119_104010685.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\600706079_website-2.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\602381735_aqt3.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\603701665_STS4-16-TE4_05-thegem-product-single.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\604023734_download.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\604301127_UNMANNED AERIAL VEHICALS.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\604369682_geophysical-sciences.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\606543999_IMG_20150121_131543488_HDR.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\606949214_download.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\608140984_IMG_20181124_093232.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\609182596_DSC01316.JPG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\610061912_q23wq23w.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\615347490_DSC01679.JPG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\615497448_WhatsApp Image 2022-07-12 at 11.40.32 PM.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\616577178_fatigue testing machine.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\616900972_bbs.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\616981108_WhatsApp Image 2022-04-07 at 10.51.49 AM.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\617014848_Vibration test system durability test  system.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\617320246_undefined-logo-1644571710.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\617906852_Captureqw.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\618118837_earthquake-research.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\618436336_IMG_20150121_153615503_HDR.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\618496224_this.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\618668448_DSC01625.JPG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\618687380_Picture12.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\619570752_WhatsApp Image 2024-04-21 at 14.49.39_8649e9e0.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\622056752_IMG-20170318-WA0013.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\622967186_img_2-min.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\623602122_Pics-2.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\624258395_AUTOMOTIVE & AEROSPACE ENGINEERING.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\626538700_Picture50.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\627944744_WhatsApp Image 2022-10-01 at 12.44.46 PM (1).jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\629540636_geoserv.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\630854908_structural testing newsletter.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\631812572_servo hydraulic close lopp creep testing mchine.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\633139814_aqt2.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\633396875_images goes here.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\633759939_Picture10.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\633948773_Picture24.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\634208242_436278456_CIS_PAVEMENT_EVALUATION_SERVICES.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\634245078_Picture4.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\634347795_743161283_721649584_materials-testing (1)_merged.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\634430139_220-MZ906325.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\635096613_373384059_microzonation-studies.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\635966757_slip Table.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\636411351_479071429_645135950_631003793_Railways Testing  (1) (2).pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\636498957_Artboard24-100-min.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\636593779_DSC00080.JPG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\636800209_495679465_geophysical-exploration.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\639528840_WhatsApp Image 2022-11-18 at 7.31.18 PM.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\642004778_9u8.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\645737105_1641057958914.jfif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\646996837_IMG_20151221_131300143_HDR.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\648928660_RESEARCH & DEVELOPMENT.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\649157364_ge3.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\650673873_IMG_20150119_104327110.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\651163275_17_om.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\655788089_DSCN0183-thegem-product-single.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\655925320_IMG_20161217_110214100.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\656483586_IMG-20240425-WA0022.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\657019049_253123257_geodynamic studies.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\657232592_CIS PAVEMENT EVALUATION SERVICES.PDF
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\657666391_download.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\657695012_4LF4.php
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\657861467_amc_ankit ji.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\658032505_210564497_Vibration-Shock-Testing.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\658529965_traffic-infratech-expo.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\659522754_```````6.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\661027768_sh9.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\661432108_FullSizeRender (3).jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\661974544_G5.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\662631593_Hydraulic_Vibration_Shaker (2).mp4
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\663291004_DSC01245.JPG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\664694789_piez.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\664752477_Picture34.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\665951343_unmanned-aerial-vehicles.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\666161624_880853561_431572505_548174459_Advanced Material Testing (1).pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\666475543_er7.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\667060788_geoo.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\667754471_Picture48.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\670513732_er4.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\670552804_1654236938732.jfif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\670600283_RTS.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\672174778_Geophysical services - CIS.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\673170617_category1.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\673859222_IMG_1221-e1582141573841.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\679453628_Picture21.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\680452791_WhatsApp Image 2022-10-11 at 6.30.19 AM.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\681224807_at2.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\682356057_mbiu.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\685800572_materials-testing.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\686538164_Picture2.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\686837673_Dynamic & Static Simple Shear Device.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\687917136_a6.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\689523376_Picture36.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\689999696_Picture37.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\690940421_1635479715055.jfif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\690977416_IMG_20150119_103837077.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\691073728_WhatsApp Image 2022-10-08 at 5.11.22 PM.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\691724879_396971394_geodynamic-studies (1).pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\692432442_````````.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\692809923_image0047.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\692934575_Picture42.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\694956915_Picture33.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\696123227_WhatsApp Image 2022-08-04 at 4.32.37 PM.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\699272819_`````13.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\699864762_pdps.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\703459382_attended.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\705144370_automotive and aero.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\705704479_```12.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\708273328_grt1.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\708311884_ta5.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\711135899_1654236938422.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\711936207_4.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\713585654_sh3.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\714032898_er3.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\714291832_````14.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\714830959_IMG-20170318-WA0015.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\715756980_igc2.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\717392702_sms.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\717497305_irc 1.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\719554776_Multi-depth-Deflectometer-2-thegem-product-single.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\719701836_220-MZ906325.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\720189609_89f3f170-490a-4d10-ab80-a38d7b6fa739.JPG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\720591473_images goes here.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\720607205_u87.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\721649584_materials-testing.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\724458748_qdfg.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\725724426_IMG_2002.JPG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\726808184_``````3.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\727504162_vt5.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\728445199_category1.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\729328653_v2.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\730220307_m7.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\730677318_Picture19.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\733271102_1635479715040.jfif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\733635839_2.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\733796381_Stand Alone Four Point bending Beam Machine.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\734080574_glaciologyyy.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\734621981_Hydraulic_Vibration_Shaker (2).mp4
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\734666690_GE4.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\735656760_materials-testing.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\736016034_221271719_automotive-aerospace-engineering2.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\738532410_structural health.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\739864980_u78.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\741471213_koi.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\741643672_f5.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\743161283_721649584_materials-testing (1).pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\746767866_Microzonation Studies.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\746858837_Picture1.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\747019219_Picture26.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\747603508_PHoto1ss-thegem-product-single (1).jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\747942494_klji.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\749070872_71bZQijafzL._SL1500_.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\750868485_30_1.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\751379695_Solitary_Oil_Rig_In_The_Arabian_Sea.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\752501404_Picture25.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\752589983_Picture9.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\752888826_220-MZ906325.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\755013597_ge2.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\756125873_materials-testing.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\756375684_railways.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\756872391_pe13.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\756903526_jpg.jfif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\757053090_demo image.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\757573132_WhatsApp Image 2022-07-12 at 11.40.27 PM.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\758293353_DSC01672.JPG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\758788431_IMG_20151220_182958981.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\759099518_qwerty.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\759207760_vt2.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\760827032_ge14.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\761874777_f5.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\762639069_WhatsApp Image 2022-07-28 at 11.27.14 AM.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\764355030_e6.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\764668723_Picture20.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\768930511_download.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\769222226_IRC-logoFinal.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\769680115_q1.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\771199875_mahima.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\771420896_ta3.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\772647777_15909332_1580049648691364_572449951_o.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\773873543_r5.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\774115605_`````````1.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\775327155_210564497_Vibration-Shock-Testing.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\776012572_igc2.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\776423574_images goes here.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\776457293_pavement-evaluation4.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\779800083_WhatsApp Image 2022-10-08 at 5.11.21 PM.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\783155989_1641057958914.jfif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\783919244_221271719_automotive-aerospace-engineering2 (1).pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\785244959_1641209187150.jfif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\785336705_1.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\786651220_30_1.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\786787096_874494069_structural-health-evaluation.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\786888100_IMG_2923.JPG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\789385166_IMG_2907.JPG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\790194695_trib2.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\791276783_WhatsApp Image 2022-02-08 at 10.03.03 AM.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\793019105_Picture17.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\794706740_aqt9.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\795554290_DSC00072.JPG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\795637321_download.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\795837186_WhatsApp Image 2022-10-11 at 6.31.06 AM.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\796810029_ge9.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\798715273_easylux.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\798938300_WhatsApp Image 2022-02-08 at 10.03.52 AM.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\799793458_IMG_20160131_112851616.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\799811288_````10.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\801406303_STS4-WBS-base-station_05-thegem-product-single.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\801566353_Green Energy.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\801844386_71bZQijafzL._SL1500_.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\802315218_ge23.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\802344493_Title.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\802575220_IMG_2918.JPG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\805010127_Picture26.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\806791437_12344444.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\806869687_download (1).jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\807248184_IMG_20150121_153630887_HDR.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\808384185_geodynamic.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\808835834_8oct.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\808974726_pe3.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\810151167_automotive and aero.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\812705592_Picture49.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\813492541_vt1.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\813858190_ge15.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\813879641_879269469_Picture201.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\814732894_Picture3.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\814919238_download.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\815569285_IRTY.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\816200448_bbs.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\816282056_w8.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\816952810_Picture2.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\817029646_download.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\817032594_DSC00083.JPG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\819754947_download.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\822253457_images (4).jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\823562848_PE11.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\828400773_Universal Testing Machine (ElectromechanicalServo Hydraulic) (StaticDynamic).jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\828910312_IMG_20161218_112418844.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\828944754_download.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\830177737_download.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\830910154_railway-testing-services.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\831824108_igc6.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\832366205_Picture41.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\833292215_GLACIOLOGY.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\833547359_Picture1.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\834221727_Picture6.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\834364991_WhatsApp Image 2022-10-11 at 6.30.19 AM (1).jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\835954903_642004778_9u8.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\836510359_PE10.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\836665573_Hydraulic_Vibration_Shaker (2).mp4
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\836735693_1641057958914.jfif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\837739364_WhatsApp Image 2022-07-12 at 11.40.30 PM.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\839568160_Cyclic Triaxial testing system.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\840074092_b.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\842814767_at3.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\843769384_q3.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\845175815_trffc.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\845444078_au3.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\845850089_r2.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\846313859_q6.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\846719492_poil.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\849448729_721649584_materials-testing (1).pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\849864474_demo image 2.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\849989982_Picture6.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\850445989_WhatsApp Image 2022-04-07 at 10.51.49 AM.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\850761173_Solitary_Oil_Rig_In_The_Arabian_Sea.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\850823205_801566353_Green Energy.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\851703881_img_2-min.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\851864523_wille geo.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\851904769_vt3.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\853135649_HC-emirates-id-2.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\854238131_unmanned1.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\854481358_Picture3.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\855578562_download.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\856045631_download.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\856533658_Hydraulic_Vibration_Shaker (2).mp4
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\857778096_automotive-aerospace-engineering.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\857988172_rd2.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\858198061_DSC01256.JPG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\858690235_WhatsApp Image 2022-11-18 at 7.29.58 PM.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\859752712_Picture3.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\859960409_FINAL  expo.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\860485701_Picture22.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\863576112_ge26.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\863994729_irc staal.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\864663218_2bb254f8-987b-4db8-8a87-e7ce42f44180.JPG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\865477717_struc1.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\867676763_images (2).jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\867750142_ST350.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\868256734_automative.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\870356590_642004778_9u8.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\872727690_Vibration test sysytem.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\872801221_1-removebg-preview (1).png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\873712934_v1.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\874494069_structural-health-evaluation.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\875772041_15878176_1580049745358021_1044635652_o.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\876653769_Geophysical services - CIS.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\877828882_q2.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\877910550_WhatsApp Image 2022-11-18 at 7.32.42 PM (2).jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\878004799_G4.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\878473576_AST350-VAST350-Asphalt-Strain-Transducer-thegem-product-single.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\878591035_Digital Load Frames.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\879269469_Picture1.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\879891893_Picture24.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\880531143_download.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\880628478_IRC-logoFinal.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\880925255_download.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\881021017_Picture34.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\881459137_ge16.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\882494420_8oct.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\882843026_746767866_Microzonation Studies.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\884019099_221271719_automotive-aerospace-engineering2.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\884170937_WhatsApp Image 2022-11-18 at 7.30.17 PM.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\884326437_irc216.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\884668357_aqt5.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\886509367_mbiuu.jfif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\889329760_ae27.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\889613240_4800-1-thegem-product-single.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\890307593_Picture25.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\890946915_1641209187118.jfif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\892563084_WhatsApp Image 2022-04-08 at 12.52.08 PM.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\893959434_Completion-module_cropped-thegem-product-single.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\894732621_download.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\895232948_```14.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\895823676_17_om.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\897036808_FullSizeRender (3).jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\897692557_756375684_railways.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\897790617_glaciologyyy.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\897885527_PE16.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\898095855_ge28.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\898759298_au10.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\898766807_ta10.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\898854930_Picture2.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\899295919_Pave1.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\900020511_WhatsApp Image 2022-02-08 at 9.55.29 AM.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\900392011_1635479714777.jfif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\902109836_Advanced Material Testing-Volume-2 (2016).pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\903581859_96383c7cfc9378449b17bc746ce725f5.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\906208563_588993440_Geophysical services - CIS.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\908617802_a3.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\912592224_IMG_20161217_110129506.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\914226729_``````9.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\914330325_sh5.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\914999008_100.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\916473378_ge22.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\916628110_Picture13.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\916775148_qwe321.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\916808060_ge21.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\918140053_images goes here.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\918457661_thermal Ftigue test system.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\919485532_DSC01320.JPG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\920746776_Picture23.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\920815766_ae28.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\921586538_download.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\924119763_er2.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\927626008_download.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\927933621_ae21.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\929780648_ge19.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\930711898_download.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\931646373_Picture20.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\931818541_undefined-logo-1644571710.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\935335135_sh5.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\936055884_automotive & aerospace engineering.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\936162828_au8.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\938413212_cii.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\940266480_e4.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\942419334_vt4.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\942463128_m6.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\943894828_aqt4.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\944274321_776457293_pavement-evaluation4.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\946072389_99.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\946169741_279922538_green-energy.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\947242483_IMG-20170318-WA0014.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\947775605_logo1-min.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\948590538_IMG_20161218_112436106.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\948959521_Vol 6 Railways.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\951692377_Picture13.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\952052639_GE5.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\952074306_FullSizeRender (1).jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\952911411_research-and-development.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\953273184_Hydraulic_Vibration_Shaker (2).mp4
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\953495600_30_2.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\953866980_`````8.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\953879267_e8.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\955294266_glaciology.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\955538466_download.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\955933415_Picture3.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\958133046_kochi chapter(FINAL).jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\959465704_irc 1.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\959875427_Picture32.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\960514646_download.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\961459882_igc3.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\961473662_category1.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\961949941_au11.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\963776585_glaciology.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\964602472_0cc1b39b-2712-448d-869c-8f7229105246.JPG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\966745543_easylux.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\968644213_Picture22.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\969052797_Picture44.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\970175601_1641209187078.jfif
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\970275462_```````2.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\972003446_unmq.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\972299398_r3.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\972457892_app-min.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\973045608_ifc.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\973702177_pavenment.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\973716660_traffic-infratech-expo.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\973932815_m8.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\974539751_r45.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\975292598_G3.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\975884310_ge27.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\977391858_Picture11.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\985127355_WhatsApp Image 2022-11-18 at 7.33.21 PM (7).jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\985701824_pavement-testing.jpeg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\985727146_at1.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\985814079_category1.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\986594268_at9.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\987425079_au1.jpg
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\988469549_952911411_research-and-development.pdf
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\989836682_1.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\993389485_er5.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\997494675_Picture37.png
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\998816579_geodynamics.PNG
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\CIS_PAVEMENT_EVALUATION_SERVICES.PDF
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\product\nsbqkhpo.php
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\video\137133859_Hydraulic_Vibration_Shaker.mp4
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\video\137754597_2.mp4
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\video\167942670_512494503_KMS Technologies LEMI 424 HD.mp4
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\video\240775166_NAV_4.mp4
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\video\263650740_551757665_2.mp4
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\video\274759917_1.mp4
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\video\289609503_512494503_KMS Technologies LEMI 424 HD.mp4
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\video\296846591_3.mp4
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\video\309722489_551757665_2.mp4
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\video\338731398_512494503_KMS Technologies LEMI 424 HD.mp4
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\video\343821129_7.mp4
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\video\346070015_512494503_KMS Technologies LEMI 424 HD.mp4
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\video\40a1e6c5.php
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\video\424975036_551757665_2.mp4
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\video\470099025_6.mp4
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\video\472291130_landing.video.mp4
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\video\506758146_551757665_2.mp4
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\video\520784265_flag.mp4
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\video\521576211_512494503_KMS Technologies LEMI 424 HD.mp4
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\video\546333448_flag.mp4
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\video\551757665_2.mp4
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\video\588620800_296846591_3 (1).mp4
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\video\666548521_551757665_2.mp4
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\video\701865957_5.mp4
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\video\799142880_4.mp4
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\video\831836549_NAV_3.mp4
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\video\894768435_551757665_2.mp4
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\video\902192513_flag.mp4
+c:\Users\Sahil.yadav\Desktop\CIS-New-website\assets\video\f22294ca.php
